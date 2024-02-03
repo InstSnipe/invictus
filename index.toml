@@ -715,6 +715,10 @@ file = "mods/DynamicTrees-Terralith-1.18.2-1.0.1.jar"
 hash = "44896dd24942a70154edd2ccae14dbc6741967994643d4fa2d6329bfbf71e223"
 
 [[files]]
+file = "mods/DynamicTreesBYG-1.18.2-1.1.0-Beta1.jar"
+hash = "eac08294d49ebada53b886df864b1ef8655182f45e786902ea925b2e4196d612"
+
+[[files]]
 file = "mods/Electrodynamics-1.18.2-0.6.5-0.jar"
 hash = "6feb0fba2fd1ce55a91b73667309dbaa34497d55da5280293f6214e13a27bb6e"
 
