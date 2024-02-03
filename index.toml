@@ -716,6 +716,10 @@ file = "mods/DynamicTrees-1.18.2-1.0.4.jar"
 hash = "6610ead0f18dd069dad4dce156b86ffd7caef9812b64548a07bf6d6e360d82f0"
 
 [[files]]
+file = "mods/DynamicTrees-Terralith-1.18.2-1.0.1.jar"
+hash = "44896dd24942a70154edd2ccae14dbc6741967994643d4fa2d6329bfbf71e223"
+
+[[files]]
 file = "mods/DynamicTreesTerraForged-1.18.2-1.0.1.jar"
 hash = "1ecf8383c5e1e8a5082318bf05e22edf93dd388d28d435aebd00b443270f82f4"
 
@@ -880,6 +884,10 @@ file = "mods/armourersworkshop-forge-1.18.2-2.0.11.jar"
 hash = "8fd9fe83bb26189557c55030f52edf6e05c386ac7af6090de0202a2422ae5733"
 
 [[files]]
+file = "mods/bettercombat-forge-1.6.2+1.18.2.jar"
+hash = "1d76dd2b54978941200873e8bd897e27de0506504d95bc309296f5a9557c75b4"
+
+[[files]]
 file = "mods/camera-1.18.2-1.0.6.jar"
 hash = "f521b4d5eb12f02456f810023532352a0cf74d13e0bcfc6e8ed2b2990a5876c1"
 
@@ -986,6 +994,10 @@ hash = "f2a14c612fa7ac98dd9d63219d84ef82d9cb616930de933b6af88e9f0f983d67"
 [[files]]
 file = "mods/createendertransmission-2.0.6-1.18.2.jar"
 hash = "cc188e283f23cc8cb9f085a6b1b27b7596a19cc23a07c347e7760cdd15e6fb55"
+
+[[files]]
+file = "mods/cristellib-forge-1.0.0.jar"
+hash = "c879f4f503ec120ba8a5a3c8dcff340e1288caf7ccf08d7c4077497af4089623"
 
 [[files]]
 file = "mods/culinaryconstruct-forge-1.18.2-4.3.1.0.jar"
@@ -1198,6 +1210,10 @@ hash = "527f05a6def553b0c0eabfe492bfd977b8267cf53de3e48420b0cbe6d08131d9"
 [[files]]
 file = "mods/sophisticatedbackpacks-1.18.2-3.19.5.990.jar"
 hash = "66891e16ca7335e8b686d54a274f0a483847f21dfe70ce15eb26ec4ab0680aac"
+
+[[files]]
+file = "mods/sophisticatedcore-1.18.2-0.5.111.526.jar"
+hash = "ca331d5a7859d5f00ac13466fe6a212a2e570dd1022429ab5dc6e9aee6649228"
 
 [[files]]
 file = "mods/starlight-1.0.2+forge.546ae87.jar"
