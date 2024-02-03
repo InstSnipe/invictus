@@ -1,0 +1,13 @@
+filename = 'adaptive_performance_tweaks_core_1.18.2-11.0.0.jar'
+name = 'Adaptive Performance Tweaks: Core'
+side = 'server'
+
+[download]
+hash = '5a9359392fd8eee1b9e2ccfa0fb7dba4c0810e0bb2a5fb73679690f4d3e8250b1f935c8b02685affb5d0fc97251dccf210fd30622a642d862c49fa6e3464a12f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L5xaBiBb/versions/eoCnsVxy/adaptive_performance_tweaks_core_1.18.2-11.0.0.jar'
+
+[update.modrinth]
+mod-id = 'L5xaBiBb'
+version = 'eoCnsVxy'

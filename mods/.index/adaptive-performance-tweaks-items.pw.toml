@@ -1,0 +1,13 @@
+filename = 'adaptive_performance_tweaks_items_1.18.2-11.0.0.jar'
+name = 'Adaptive Performance Tweaks: Items'
+side = 'server'
+
+[download]
+hash = '0019822cb1bc0849d3585a3e08f54d6c852e8219b41e1d999628be1b639cdd70dc46e9b78ae0a038b59d7f16cbf00af6f032eac39bd1c7432be55c42277c9b65'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z3TjJLQ0/versions/Q2LWDhBJ/adaptive_performance_tweaks_items_1.18.2-11.0.0.jar'
+
+[update.modrinth]
+mod-id = 'z3TjJLQ0'
+version = 'Q2LWDhBJ'

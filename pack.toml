@@ -1,0 +1,13 @@
+name = "Invictus"
+author = "InstaSnipe"
+version = "0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "68dfd2b20451c5ff80aa0a10ef87b29af498d2c84e96a1d3f1a2d27c55334f0a"
+
+[versions]
+forge = "40.2.17"
+minecraft = "1.18.2"

@@ -1,0 +1,13 @@
+filename = 'adaptive_performance_tweaks_gamerules_1.18.2-11.0.0.jar'
+name = 'Adaptive Performance Tweaks: Gamerules'
+side = 'server'
+
+[download]
+hash = '957b58ca05e42ed440eda5a10136ea0aae99c6d903ccc5cd5bebce06faacab297da29ee25956399071a583141bca7c251ffe4278db7e77b1540893a9abe5465c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Rd89yO7d/versions/ULhskyt8/adaptive_performance_tweaks_gamerules_1.18.2-11.0.0.jar'
+
+[update.modrinth]
+mod-id = 'Rd89yO7d'
+version = 'ULhskyt8'

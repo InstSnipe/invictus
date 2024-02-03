@@ -1,0 +1,13 @@
+filename = 'Electrodynamics-1.18.2-0.6.5-0.jar'
+name = 'Electrodynamics'
+side = 'both'
+
+[download]
+hash = '6893c06387857a5c3376a6fa9eff3b3249b026d7b9eed2e4dc4cf295a42e10291cc9930d45459864a272975cecd07beb6e246601d0c0b650919b94a8d616dda1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xmhmr70o/versions/YUBFvv7M/Electrodynamics-1.18.2-0.6.5-0.jar'
+
+[update.modrinth]
+mod-id = 'xmhmr70o'
+version = 'YUBFvv7M'
