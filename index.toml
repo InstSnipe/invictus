@@ -579,11 +579,6 @@ hash = "f3a8f51e6779ee2e50865b12f92c1fe3633afaae0db15ffcfc4a5788a9d4675f"
 metafile = true
 
 [[files]]
-file = "mods/.index/dynamic-trees-terraforged.pw.toml"
-hash = "252f3853056dba5354731345af55bec61b2ffabc6a2e37245e123f79b22015a4"
-metafile = true
-
-[[files]]
 file = "mods/.index/dynamictrees.pw.toml"
 hash = "fdae0392ececcac1651aecfe404c3e3a6b032a868cdb1291adc9072cac7e40ea"
 metafile = true
@@ -718,10 +713,6 @@ hash = "6610ead0f18dd069dad4dce156b86ffd7caef9812b64548a07bf6d6e360d82f0"
 [[files]]
 file = "mods/DynamicTrees-Terralith-1.18.2-1.0.1.jar"
 hash = "44896dd24942a70154edd2ccae14dbc6741967994643d4fa2d6329bfbf71e223"
-
-[[files]]
-file = "mods/DynamicTreesTerraForged-1.18.2-1.0.1.jar"
-hash = "1ecf8383c5e1e8a5082318bf05e22edf93dd388d28d435aebd00b443270f82f4"
 
 [[files]]
 file = "mods/Electrodynamics-1.18.2-0.6.5-0.jar"
@@ -1158,6 +1149,10 @@ hash = "f91896c57e33402cb68c52fa32ace797e41adb327a669a1c0d8c4db0749762f0"
 [[files]]
 file = "mods/open-parties-and-claims-forge-1.18.2-0.20.4.jar"
 hash = "a73dabf22217fb80c450aaf16be1208c4ab770d02497b857c9f8b6c6be8ea71c"
+
+[[files]]
+file = "mods/player-animation-lib-forge-1.0.2+1.18.jar"
+hash = "818b173358f6d8855217a43ee3701377a56d71a1c3d28b12d9238949f1610606"
 
 [[files]]
 file = "mods/pluto-mc1.18.2-0.0.6.jar"
