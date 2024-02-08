@@ -1,0 +1,46 @@
+
+
+
+
+profile Saved activate HOT5
+	HOT1
+		"minecraft:anvil"
+	HOT2
+		"armourers_workshop:armourer"
+	HOT3
+		"mimi:filecaster"
+	HOT4
+		"mimi:mechanicalmaestro"
+	HOT8
+		"mimi:switchboard"
+	HOT9
+		"framedblocks:framed_lever"
+
+profile Saved activate HOT5
+	HOT1
+		"minecraft:anvil"
+	HOT2
+		"armourers_workshop:armourer"
+	HOT3
+		"mimi:filecaster"
+	HOT4
+		"mimi:mechanicalmaestro"
+	HOT8
+		"mimi:switchboard"
+	HOT9
+		"framedblocks:framed_lever"
+
+profile Saved activate HOT8
+	HOT1
+		"minecraft:anvil"
+	HOT2
+		"armourers_workshop:armourer"
+	HOT3
+		"mimi:vibraphone"
+	HOT7
+		"mimi:mechanicalmaestro"
+	HOT8
+		"mimi:filecaster"
+	HOT9
+		"mimi:switchboard"
+

@@ -1,0 +1,13 @@
+filename = 'melody_forge_1.0.1_MC_1.18.2.jar'
+name = 'Melody'
+side = 'client'
+
+[download]
+hash = '9b32818a55f93f34f4495433b604556c60ccf48fd49e37ec15ccc7d23e966c8058176f33b8c17f99a6366afa9ba56bc4f493e904ccaa7b5d93ea8cc3d0661979'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CVT4pFB2/versions/aMYLdh1A/melody_forge_1.0.1_MC_1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'CVT4pFB2'
+version = 'aMYLdh1A'

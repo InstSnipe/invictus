@@ -1,0 +1,142 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = connect_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1707314223096
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:ac2ff3c8-7e1f-429a-888d-2a08f352ac12-1707314003400] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/boo_womp.ogg
+  play_mode = normal
+  looping = false
+  volume = 1.0
+  sound_source = master
+  element_type = audio_v2
+  instance_identifier = a0164630-a248-4c05-bc66-7446d7e3854f-1707313712374
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -50
+  y = 70
+  width = 100
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 8761242e-030e-498a-9da7-bee7e5bd3d37-1707313712374
+  [loading_requirement_container_meta:8761242e-030e-498a-9da7-bee7e5bd3d37-1707313712374] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = For {"placeholder":"playername"} something greater await
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 10
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 102d133a-7b5a-492b-9bec-2cae973145f7-1707313759882
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -115
+  y = -44
+  width = 232
+  height = 28
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 35e66860-efdb-4d2d-9d9f-5c076bb77c23-1707313759882
+  [loading_requirement_container_meta:35e66860-efdb-4d2d-9d9f-5c076bb77c23-1707313759882] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 663a6e2e-0562-4773-80be-da5b4028f56a-1707313684346
+  [executable_block:663a6e2e-0562-4773-80be-da5b4028f56a-1707313684346][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = status
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 220
+  y = 130
+  width = 200
+  height = 9
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 7546119f-0fe3-4de7-a874-e0e189b8a786-1707313684346
+  [loading_requirement_container_meta:7546119f-0fe3-4de7-a874-e0e189b8a786-1707313684346] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = fb0d13a4-e416-4db5-9028-c484d81644b9-1707313684346
+  [executable_block:fb0d13a4-e416-4db5-9028-c484d81644b9-1707313684346][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  element_type = vanilla_button
+  instance_identifier = 400382
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 220
+  y = 222
+  width = 200
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e70fc9a1-dd03-4153-a858-d975122a21f3-1707313684346
+  [loading_requirement_container_meta:e70fc9a1-dd03-4153-a858-d975122a21f3-1707313684346] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
