@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1707313652545
+  last_edited_time = 1707447000879
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:e3701721-23db-4123-9abb-c7cd43f05935-1707313516947] = [groups:][instances:]
+  [loading_requirement_container_meta:499dbe81-dc2f-4e94-8755-2526fb5ad1c5-1707446927153] = [groups:][instances:]
 }
 
 menu_background {
@@ -36,7 +36,7 @@ element {
   background_texture = [source:local]/config/fancymenu/assets/loading_ba.png
   direction = down
   progress_for_element_anchor = true
-  progress_source = 50
+  progress_source = {"placeholder":"game_loading_progress"}
   value_mode = percentage
   element_type = progress_bar
   instance_identifier = 02645dc4-6ab5-4dfa-97a3-fcf4fccff96f-1707217178762
