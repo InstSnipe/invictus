@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
-metafile = true
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -655,15 +650,15 @@ hash = "b0d3bf881aa9abd9a0c0f01510c68441e558b0341020ade60ea63b6d16bce403"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen.txt"
-hash = "e2996cd4cd2b05d5e648cf4bd92feecf9ad0e9d2f774d68ce38abea487c1ed21"
+hash = "d6cdf5e63cde97f1f2b01b365d67ff2ea48eb650907e331b7a6958b62a1841dc"
 
 [[files]]
 file = "config/fancymenu/customization/loading.txt"
-hash = "bdb088eae3dc7666f0d6937f082d23494da283d982a66272f4add93dcf945bfc"
+hash = "1ffaba141ac1ccad2613e5d8b4c30c021cc048f3063f357a5c40beba03a3d597"
 
 [[files]]
 file = "config/fancymenu/customization/title.txt"
-hash = "2396dea99ca958c976587ff15541b62610ce1e7b0cf80864c8f54f564d4d5711"
+hash = "984a17ecc7b40e1ff4dd3a804b518289b75f6b2e4599d7aa5d44b70feebf49af"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1630,16 +1625,8 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
-file = "mods/.index/Electrodynamics-1.18.2-0.6.5-0.jar"
-hash = "6feb0fba2fd1ce55a91b73667309dbaa34497d55da5280293f6214e13a27bb6e"
-
-[[files]]
 file = "mods/.index/Ladderz-1.18.2.jar"
 hash = "49272f2fe516b57a819e48129817f0dad77afb50ac0e204c31382211054f55d1"
-
-[[files]]
-file = "mods/.index/architectury-4.11.93-forge.jar"
-hash = "29f4308e8115cfaaff9ad1977d203f2cf4f18fb8447f1a4848c7f85cb049658f"
 
 [[files]]
 file = "mods/.index/architectury-api.pw.toml"
@@ -1850,10 +1837,6 @@ metafile = true
 file = "mods/auudio-forge.pw.toml"
 hash = "908b881dc7d5c6372e5afc39594cda0331e6819f3760baa3c0459e5a020ae2bf"
 metafile = true
-
-[[files]]
-file = "mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar"
-hash = "a80e8bd205660ed9bcf85f26354b47b6af13699c1681b6984143fbb44f86aa6f"
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
@@ -2305,10 +2288,6 @@ hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
 metafile = true
 
 [[files]]
-file = "mods/oculus-1.4.3a.jar.disabled"
-hash = "c06c9a476f86a72659cebccfc7ce1ffc4e51d2899917f21ea24cc38b900f523d"
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "fad0e1c59d0548afbcbe2e34d25fbf97cf4c6effe40b3f7e2b93dd5c546ee601"
 metafile = true
@@ -2479,8 +2458,9 @@ hash = "8efc83f181371fb79f6e3b3510750543ebf9f85bf5282fbb36838b8ee044b8b4"
 metafile = true
 
 [[files]]
-file = "mods/trackwork-1.18.2-0.0.1h1-alpha.jar"
-hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"
+file = "mods/trackwork.pw.toml"
+hash = "1cdb88bedb5da055151a9669731e329d74016495bd867bcc5b6db2236daabf23"
+metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
@@ -2508,10 +2488,6 @@ hash = "5a03f0fc83f9d9b490eae6b0a596805e556029198a449adcaa8a18fb2e2b4a66"
 metafile = true
 
 [[files]]
-file = "mods/weather2-1.18.2-2.7.5.jar.disabled"
-hash = "138ba821039d89f81aa49f8c10e2fbfbc7bdc75dcfaf2d584d5b78df3068b384"
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "45f1a993d3cbb93d4e14034ebdabda1d6f166b90ec99ac12c945b6f2bad1a09f"
 metafile = true
@@ -2527,73 +2503,82 @@ hash = "59ea3b2a779f77f1cb1251a4cb8627489890952f1bbb18180131ac12484456c1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/CGM_AVE_v1.2.0_1.18.2.zip"
-hash = "71fecaeb76771ba8aa5bf19e31ca84581397871350616cba4c7b39631a768a24"
-
-[[files]]
-file = "resourcepacks/Create Computers 1.2.zip"
-hash = "817e15b4200c0400f4b6a1b3b8a9fa0244f1d32f087a7090d0e97319ea9bb228"
-
-[[files]]
-file = "resourcepacks/Create Simple Storage 2.1.zip"
-hash = "fc1cd2ae6ffc55248544e44e64bf7231321a768c5a677fd47169bd7cf1639218"
-
-[[files]]
-file = "resourcepacks/Create+Guns+1.18+v4.zip"
-hash = "03acaee13e91d653bdbfce82119b341f2840e07026c02a895c708020b30ab5d6"
-
-[[files]]
 file = "resourcepacks/CreateLikeGUI.zip"
 hash = "b1cd27b6d2b54f4c47082c5fbaa802b1eef0477d5ddaf8c4b490176ea48712e6"
-
-[[files]]
-file = "resourcepacks/Create_Guns_Scorched_1.19.2-1.19.3.zip"
-hash = "939491ccdcb9ad821976263065bd2f51d9df97fc8faa05b4df654c25b2614a9e"
 
 [[files]]
 file = "resourcepacks/Custom_Player_Anims_bettercombat_compat.zip"
 hash = "d07499475991ae0d697e8f637972df53cb5c98e0de64493ac2a844ef7f48348a"
 
 [[files]]
-file = "resourcepacks/Eureka Create 1.0.zip"
-hash = "782745e07d612cb285e0071ebb8ee9954bfb1879b8fde3998d9a2225a0cad097"
+file = "resourcepacks/FreshplayerEdit6without_eyes_Fixedmodel.zip"
+hash = "0e7af6adec57763bb2dc966919976da60ddd96024960525537eabce73e8f0b63"
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.8.zip"
-hash = "c31ee77457517dcad5fd1b38cfd7f71cd19c831803f8c2ab9fc19463ed108d80"
+file = "resourcepacks/cgm-audio-visual-enhancements.pw.toml"
+hash = "21c214d4fa2c68e71bb17b684ced4fb5db52623a4aa4f0018488f1bc5143ae4d"
+metafile = true
 
 [[files]]
-file = "resourcepacks/FreshplayerEdit6without_eyes_Fixedmodel/assets/minecraft/optifine/cem/player.jem"
-hash = "b9f973e91b21416c0547712c2613c429863aa3234b82a71fee3c5115ce6396cc"
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "e1ed62c2d15ced9b8a6b6c9bf4a69e7d82502e9d9405f723b2e3a92c6cfd7294"
+metafile = true
 
 [[files]]
-file = "resourcepacks/FreshplayerEdit6without_eyes_Fixedmodel/assets/minecraft/optifine/cem/player_slim.jem"
-hash = "809a0698fe2b19a52710f24330b3605a7366acf19fe115e953498d9cf75558fa"
+file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
+hash = "a5978639cd1d71165728c75e601e3e3a2c8acf3eb232bb2d78469bd98c0373bb"
+metafile = true
 
 [[files]]
-file = "resourcepacks/FreshplayerEdit6without_eyes_Fixedmodel/pack.mcmeta"
-hash = "7ad7e634619c0beb9d505073014ac193b575abe117875ea42911bced39c0caa2"
+file = "resourcepacks/create-guns.pw.toml"
+hash = "828136c4fc7beb1be743b7413e794a0dd12143596f5c78a533af5d130a349d0e"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
-hash = "a6a782f3a471a5ea283638d533ba8a53db7b380c0fcaac8b95154351ebc58589"
+file = "resourcepacks/create-simple-storage.pw.toml"
+hash = "345e984c0e019355bb867d74887e64bd5e06d36d59fc1dcead2a2c2e281931fc"
+metafile = true
 
 [[files]]
-file = "resourcepacks/TZP Mutant 1.20.1-1.3.zip"
-hash = "e8c08d97c815b550dd163db1000be97a0fafff013b4282f8ffd421fb45b3ffd2"
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "a1e1317a225bfb0a8396bb4399ec62682d380d868de222c12c1ed2417aca3853"
+metafile = true
 
 [[files]]
-file = "resourcepacks/TZP_1.20.1_2.7.zip"
-hash = "aed1af48318a160f049fe8ac52d8445848de89eebc530c45dd5c0c5dc7af95bb"
+file = "resourcepacks/eureka-create-airships.pw.toml"
+hash = "223d3e8fafb2ecbff94261b8ff4bbf9c9c820b9295cf7da56f2a11761820a72a"
+metafile = true
 
 [[files]]
-file = "resourcepacks/[1.13-1.18] Yuushya Release 0.18.1.zip"
-hash = "301b6091a45c7aa7562098e7c70890bb2f9e532ae14fb68967dc4ed4bce8ec2b"
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "2f22b3ef24cac4bc38598f789a80d7581f2a8804c6d75621f1c6f37d64c4713b"
+metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
-hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "d2fa96d0957ffa604cbb942be7d0bc8fbafc1829f0a61fb431655fa8a4caa42c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
+hash = "84dc4ef3fb4a79979789491901f9ef19044128fc250ed677bd9cc5dbdb6eeea8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tzp-plus-mutant-beasts-re-texture.pw.toml"
+hash = "8b194d11150c90e1cdaa73be62f5ea0b869586b89cdb94f28eb044e6e6940803"
+metafile = true
+
+[[files]]
+file = "resourcepacks/yuushya-16x.pw.toml"
+hash = "f74311afda01be4fa3524e42336e2b1bdff692033e4426c01468162125d34cfb"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
 hash = "507ee5f4fcce8d7950859de3a01e8789becf5d6f2fdef8caf9ae45179b4e6c8d"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
