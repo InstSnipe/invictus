@@ -1,0 +1,13 @@
+name = "project-676162"
+filename = "Ladderz-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6da5486b9602b7e7ce64ee87c723e4546c18d2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987307
+project-id = 676162

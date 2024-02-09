@@ -1,0 +1,9 @@
+name = "Trackwork"
+filename = "trackwork-1.18.2-0.0.1h1-alpha.jar"
+side = "both"
+
+[download]
+url= "https://cdn.discordapp.com/attachments/1191595977656778782/1201264344227385504/trackwork-1.18.2-0.0.1h1-alpha.jar?ex=65d26a1a&is=65bff51a&hm=0057e41aebcf08285ad0e185c29ef15f60fe2ac9f4d761057dcedf99b88f12cd&"
+
+hash-format = "sha1"
+hash = "f7cfc6f64bb16eafa995cb84f880afe011629bcd"

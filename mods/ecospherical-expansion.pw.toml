@@ -1,0 +1,13 @@
+name = "Ecospherical Expansion"
+filename = "ecosphericalexpansion-1.18.2-0.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "575aae04c012f2560ac75d0b980ca1c3785b3885"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4339022
+project-id = 570025
