@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -1839,6 +1844,11 @@ metafile = true
 [[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "5181a82d2c5987064ccbc34772810f1b4f9da433faf95fc38ed5b3aa23560c22"
+metafile = true
+
+[[files]]
+file = "mods/auudio-forge.pw.toml"
+hash = "908b881dc7d5c6372e5afc39594cda0331e6819f3760baa3c0459e5a020ae2bf"
 metafile = true
 
 [[files]]
