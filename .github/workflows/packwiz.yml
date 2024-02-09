@@ -1,0 +1,26 @@
+name: Packwiz Release
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: "ci"
+    - name: Install jq
+      uses: dcarbone/install-jq-action@v2.1.0
+    - name: Save variables...
+      run: echo ${{github.ref_name}} > TAGNAME.github
+    - name: Process...
+      run: |
+        chmod +x bootstrap.sh
+        ./bootstrap.sh
+    - name: Upload
+      uses: softprops/action-gh-release@v1
+      with:
+        files: invictus.zip
