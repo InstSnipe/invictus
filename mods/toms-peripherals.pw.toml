@@ -1,0 +1,13 @@
+name = "Tom's Peripherals"
+filename = "toms-peripherals-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b8289741049a8e9ba008a869c4ff53192e80174"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5050494
+project-id = 931210

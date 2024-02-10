@@ -2359,6 +2359,11 @@ hash = "f1752cb614de58a2279e2b6bc3aa029b70e6640d4027811933b9acb12a313abf"
 metafile = true
 
 [[files]]
+file = "mods/some-peripherals.pw.toml"
+hash = "79b478f8dee5864364e0081b9e990c77f944068e82f6c6ac315ccaa8d9e3207c"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "f68f24a2d937f9d675cdff75d05a1141cddf92f87ef4b86b612f6363543b5ed6"
 metafile = true
@@ -2386,6 +2391,11 @@ metafile = true
 [[files]]
 file = "mods/this-rocks-forge.pw.toml"
 hash = "ab984e1d32771e6147f091dff3086b16e9488afec0c6f46d3762b7b3937e8404"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "fc054043fbee8ba785e15d7d41305ea00639ba0d98bfa3a3be0a6d3288281476"
 metafile = true
 
 [[files]]
