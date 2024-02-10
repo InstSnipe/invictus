@@ -2025,11 +2025,6 @@ hash = "8f700299f6485d173bb89b8a7926eafe5e128d098170ca30ec9de247896ab793"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-byg.pw.toml"
-hash = "a7c915b96a4944039a95be2d114f224e7d4724811bfcf98d248843f76f685ebb"
-metafile = true
-
-[[files]]
 file = "mods/dynamictreesplus.pw.toml"
 hash = "518f5ac2911682b32b783887878e399c3bd90bb25cec082cac657ac4007d816d"
 metafile = true
@@ -2095,11 +2090,6 @@ hash = "60376d6aeb4fa8f6ad0eb7c5bcb5c544974af938b3c16746a7cfd0329783a951"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "c21eaf99f795ad5951b1267f29bc64cd273a8eba5511f036bf3b5ec6f43dc184"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "208229cac3d1277da4a289f0691f2834046d0e7685c1bbacf758d4c2f6208f59"
 metafile = true
@@ -2161,7 +2151,7 @@ metafile = true
 
 [[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
-hash = "a3182b633a6d21a355c1b70a5d140bef37f3d800ad179cf074a9ec80179727dd"
+hash = "43bf7fcef15e192d0cbacf2864715d2f500ac71dcacaaacfcbd7cde691686ad9"
 metafile = true
 
 [[files]]
@@ -2269,11 +2259,6 @@ hash = "463232f82ef7c7e4294298832ea41af897f42f04490abf7279105bd8074260e5"
 metafile = true
 
 [[files]]
-file = "mods/panoramica.pw.toml"
-hash = "0612b56a76c3efce7bf39002451a116a3bfdae854be08390a6539d5ed6524df9"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0b386467fb554a858a523a9674af9a6c76bc1ada934451faa6e57d817f32d9e0"
 metafile = true
@@ -2310,7 +2295,7 @@ metafile = true
 
 [[files]]
 file = "mods/real-camera.pw.toml"
-hash = "c83d8f7c9c705b4d477e6e2240a81676a3e1c71714f7b63355ddd6cfb047d61b"
+hash = "2b6132d4e812f3a56f69c2b82b499270fca751b0e6395e6d56519d94f94eaca2"
 metafile = true
 
 [[files]]
@@ -2384,11 +2369,6 @@ hash = "a74f308b08f3430aa7a9bc04883b6a34e746e3bcf6e01b9eab04ca6258368ea1"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "70e2b4aaaf192b4ecd97fa5377534a703c43fe2ba696d83cb30fe36be654344e"
-metafile = true
-
-[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "4fa5e2fb61e045d93a8e1f2baaf2fbb1a4a94e40fd56edc2b6faaf5ee85a9564"
 metafile = true
@@ -2396,16 +2376,6 @@ metafile = true
 [[files]]
 file = "mods/steel-armor-blocks.pw.toml"
 hash = "ee03e9bed710ce8fb782edc5a4fd5b879ffd969bb77fbdef72993221666dbdef"
-metafile = true
-
-[[files]]
-file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "e077bb4b54bfc02eb8970594c85347460202cad05791a3c4d6b389fa4ad73af4"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "49aa928cfbc1c9ceb19c19437cd8aa81ef537b691bcda306d2248ecff3079116"
 metafile = true
 
 [[files]]
