@@ -1815,6 +1815,11 @@ hash = "2bdc1fc6394cf52da16b871a7f332cfe5456903f3255f1f4259627602817dfdc"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "aa98811cba07f89561a47955a38c829d35b35913f68c32d4a17059a1f9ae4cf5"
 metafile = true
@@ -2020,6 +2025,11 @@ hash = "7a8cbcff698d968c3e113de18c1363fd0d745f4978fff5a4a0fd89b7560b6c5e"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "f2980a74993e854d338fe7e4e4a3e352b04d321ec0968a9c2d01288559b7d70a"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "8f700299f6485d173bb89b8a7926eafe5e128d098170ca30ec9de247896ab793"
 metafile = true
@@ -2027,6 +2037,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
 hash = "518f5ac2911682b32b783887878e399c3bd90bb25cec082cac657ac4007d816d"
+metafile = true
+
+[[files]]
+file = "mods/effective-forge.pw.toml"
+hash = "be13c6c50adc17948ef1a8689537f09bcd550b7d998901ad6a50870c38d5399c"
 metafile = true
 
 [[files]]
