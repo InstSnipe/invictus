@@ -2035,11 +2035,6 @@ hash = "1509a60a0c0592833d3581a7834b473cdbc5ccb6fb905d2ce69836af4a7241cf"
 metafile = true
 
 [[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "ca654d435db08813e55da475b4fadd8597b764f426fedb6658ef8ba411e5a4ec"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "e8ffe8fa323243174cdf8333951e01423c44a761232df7a8529fc4e031db4929"
 metafile = true
@@ -2186,6 +2181,11 @@ metafile = true
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
 hash = "d16d37164718b235508af0e398ab8ee4b14a6020e6b89af5d949ab6864c82ebd"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "f0684891c05b13f481c137fd14a77a41614bc37e226af07e1ad42cb85221cc90"
 metafile = true
 
 [[files]]
