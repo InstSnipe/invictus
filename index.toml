@@ -2160,6 +2160,11 @@ hash = "f14488e81bf23658e9fac12dee7a31d76249096f4fa3da437ae7c76aa1589ab6"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+hash = "a3182b633a6d21a355c1b70a5d140bef37f3d800ad179cf074a9ec80179727dd"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "1ae9141e0188f011fa330ae01fee5f923bd7c84870ffe18bd4ec798e17df8ae5"
 metafile = true
@@ -2304,6 +2309,11 @@ hash = "71a9b2c7ca4263dd258a841628dc49c04e36606e84c5b419cc6b31b7f035e7e8"
 metafile = true
 
 [[files]]
+file = "mods/real-camera.pw.toml"
+hash = "c83d8f7c9c705b4d477e6e2240a81676a3e1c71714f7b63355ddd6cfb047d61b"
+metafile = true
+
+[[files]]
 file = "mods/reforgium.pw.toml"
 hash = "86ee5de9d4f01efbc052e0892be674253e453ec6120844de35c880a4c6e26f68"
 metafile = true
@@ -2371,6 +2381,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "a74f308b08f3430aa7a9bc04883b6a34e746e3bcf6e01b9eab04ca6258368ea1"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "70e2b4aaaf192b4ecd97fa5377534a703c43fe2ba696d83cb30fe36be654344e"
 metafile = true
 
 [[files]]
