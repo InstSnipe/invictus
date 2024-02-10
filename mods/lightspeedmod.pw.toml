@@ -1,13 +1,13 @@
-name = "Lightspeed - Launch optimizations"
-filename = "lightspeed-1.18.2-1.0.5.jar"
-side = "both"
+filename = 'lightspeed-1.18.2-1.0.5.jar'
+name = 'Lightspeed - Launch optimizations'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "172412a46c61659b6aa6a8df7b29a38fd721b5cf"
-mode = "metadata:curseforge"
+hash = '172412a46c61659b6aa6a8df7b29a38fd721b5cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4594803
 project-id = 821790
