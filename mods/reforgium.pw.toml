@@ -1,13 +1,13 @@
-name = "Reforgium"
-filename = "reforgium-1.18.2-1.0.12a.jar"
-side = "both"
+filename = 'reforgium-1.18.2-1.0.12a.jar'
+name = 'Reforgium'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "75530289d19191dcc80ced1b63ce7fca360f32ae"
-mode = "metadata:curseforge"
+hash = '75530289d19191dcc80ced1b63ce7fca360f32ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4506207
 project-id = 853424

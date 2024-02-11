@@ -1,13 +1,13 @@
-name = "Connectedness"
-filename = "connectedness-1.18.2-2.0.1a.jar"
-side = "both"
+filename = 'connectedness-1.18.2-2.0.1a.jar'
+name = 'Connectedness'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "d5126d23155f611a7926480c247976e5c230039d"
-mode = "metadata:curseforge"
+hash = 'd5126d23155f611a7926480c247976e5c230039d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4506240
 project-id = 853916
