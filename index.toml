@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattribute"
-hash = "2b4a36b3152af89c2af116c71c13e3d20ee2acb0c8cbc4b468d8e2d388727ae0"
-
-[[files]]
 file = "config/Mekanism/client.toml"
 hash = "b45735dfd5440103879de13c0d3692ebe8d8b3165e7a6f29f91f6a8175fad3ac"
 
