@@ -995,6 +995,11 @@ hash = "851799a1007600db6924a6cae66b8f1c86b9fc4c92c7aff0295ffa1b68fc13dc"
 metafile = true
 
 [[files]]
+file = "mods/environmental-creepers.pw.toml"
+hash = "4683b683627235d7fddac81bd7b68dcb4c177ff6b033fa557a14d8c37bb9e5e8"
+metafile = true
+
+[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "08c7e1d333d0ade5c60fc9844f272f2e59a0d8ecb2aaffd09703b7d38e5ac0c8"
 metafile = true
@@ -1251,6 +1256,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "18ab8e3ffefa18e8a5aa983484d32dc2df0f566c7fd9b4c6d5f3ed4a56c64a61"
+metafile = true
+
+[[files]]
+file = "mods/sit.pw.toml"
+hash = "49148fc0eda2e7bbd95f0311bdef62604bdcaa4e8e48975350a3523a80b2be78"
 metafile = true
 
 [[files]]
