@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "1d4076b6f786f0ee7ab3c2d9fe955e5220230b944010d49e1bb24e15c5ff8527"
+hash = "76dac18766bebb77dc8fee7c4ed38dceb587b7418f6146a38e77c67a541752c2"
 metafile = true
 
 [[files]]
@@ -1002,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "30108e4ca21c7288a0d12b0227a64a40b980ff49355550947d52d2549373e4ec"
+hash = "2d4ff7203bec8d382fad2afa6ffc135a41a940e67e49f7feedd67674d2153fa4"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/hourglass.pw.toml"
-hash = "a949d910a47f1ccfa31a715caf21574b9220caf6122745e765b8b12694ac785b"
+hash = "ac3d9dab06ddf82a101855127a0808c90865e1f40edac8a7df0652ddcb2cc2dc"
 metafile = true
 
 [[files]]
@@ -1319,9 +1319,8 @@ hash = "95564eb3ae654cbda3891a3769ea2206a85994dd8777fa622fb6bc2beb79f0cc"
 metafile = true
 
 [[files]]
-file = "mods/trackwork.pw.toml"
-hash = "e08385fc74ec2bc96df346859834c3beb3cd2930e3e4dea5134464fa2e62dbcc"
-metafile = true
+file = "mods/trackwork-1.18.2-0.0.1h1-alpha.jar"
+hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
@@ -1354,12 +1353,12 @@ hash = "0dbe9d983c8c7d502f3ed73813d425789a3a80ba403a80ad81b1b902e1af5ea4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Create+Guns+1.18+v4.zip"
-hash = "03acaee13e91d653bdbfce82119b341f2840e07026c02a895c708020b30ab5d6"
+file = "options.txt"
+hash = "5ff8bbe2165aa02c9e6641ef7b24881f55e16f627bae34b67ac152af17092d23"
 
 [[files]]
-file = "resourcepacks/Created  Updated v0.1.zip"
-hash = "aee78b19c97e5dfaeb4f6242b86afc1a9eabff4fea2f9f79b313cd0277c2389c"
+file = "resourcepacks/Create+Guns+1.18+v4.zip"
+hash = "03acaee13e91d653bdbfce82119b341f2840e07026c02a895c708020b30ab5d6"
 
 [[files]]
 file = "resourcepacks/Custom_Player_Anims_bettercombat_compat.zip"
