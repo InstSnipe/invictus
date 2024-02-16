@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/auudio-forge.pw.toml"
-hash = "7dfc5c87cbadf3a13373cc964d4c620182eb3f5b473304cd39bf1a1fd3276c43"
+hash = "908b881dc7d5c6372e5afc39594cda0331e6819f3760baa3c0459e5a020ae2bf"
 metafile = true
 
 [[files]]
