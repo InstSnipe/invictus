@@ -1,16 +1,16 @@
 name = "Invictus"
-author = "InstaSnipe"
-version = "0.4"
+author = "InstaSnipe frfr"
+version = "2.0-b.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cb1c700797fcd2ce29bc071e00db268951b6e917f339af70ae10518aaf415272"
+hash = "7c811118c25e4b6fdb0374085168f41e6f72c165a9a2a93322867867857f0233"
 
 [versions]
 forge = "40.2.17"
 minecraft = "1.18.2"
 
 [options]
-acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]
+acceptable-game-versions = ["1.18.2"]
