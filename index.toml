@@ -1031,6 +1031,16 @@ hash = "e93eb7cecf30996453526c1469be40475ac70c29d16f130b4524d63198cb5576"
 metafile = true
 
 [[files]]
+file = "mods/game-menu-remove-gfarb.pw.toml"
+hash = "35c84aab2aa9144d73c1cea25fa4bce2ce67269a5651e1f39b658bbd348efda5"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
+metafile = true
+
+[[files]]
 file = "mods/hourglass.pw.toml"
 hash = "ac3d9dab06ddf82a101855127a0808c90865e1f40edac8a7df0652ddcb2cc2dc"
 metafile = true
