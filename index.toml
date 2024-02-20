@@ -1169,6 +1169,11 @@ hash = "69a8280b159bc955f6b1e1811de1f9c16372b6dc5cbd5d7c69d55e9c1e41d06f"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a8d57b57a2b2fceffba4e63bd71a0d1b05c837d9597943189149b08b2e2430cd"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "2f607f9493c8a1582337d89ad630bc8a9ebec904e9e18012c12db6d2ff55bda7"
 metafile = true
