@@ -1426,6 +1426,11 @@ hash = "d9351239b2e95438cf49158c6cbdab241319bf3f0891319466635e858125fde0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "2f22b3ef24cac4bc38598f789a80d7581f2a8804c6d75621f1c6f37d64c4713b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "d2fa96d0957ffa604cbb942be7d0bc8fbafc1829f0a61fb431655fa8a4caa42c"
 metafile = true
