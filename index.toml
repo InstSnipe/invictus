@@ -78,7 +78,7 @@ hash = "26b027938079de4cae4676bcc2ed172a21894e0f9353ea828aed249b9507e14e"
 
 [[files]]
 file = "config/Weather2/Tornado.toml"
-hash = "30ac477bb029288a750d3135944446cadd14b42bbdbd5b4b49956352da691901"
+hash = "e2ba9da589dadc9f55ed129ca39e3fe3c63f32e6953ce00a9129c73cb50c876b"
 
 [[files]]
 file = "config/Weather2/Wind.toml"
@@ -565,6 +565,10 @@ file = "config/railways-client.toml"
 hash = "7a8828ce6749cbe3121b411092909db4f91098d43f331fc71a5ecd82429577e3"
 
 [[files]]
+file = "config/realcamera.json"
+hash = "0f6cec32a1cf308333604634c76576ce6b1f33b44aa28f3e382a08a549adbcac"
+
+[[files]]
 file = "config/reforgium-renderer.properties"
 hash = "ba437ce87731b1927e8cdd723f309abb9c5cd74cba913dd0620342403e1c01fb"
 
@@ -1031,6 +1035,16 @@ hash = "e93eb7cecf30996453526c1469be40475ac70c29d16f130b4524d63198cb5576"
 metafile = true
 
 [[files]]
+file = "mods/game-menu-remove-gfarb.pw.toml"
+hash = "35c84aab2aa9144d73c1cea25fa4bce2ce67269a5651e1f39b658bbd348efda5"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
+metafile = true
+
+[[files]]
 file = "mods/hourglass.pw.toml"
 hash = "ac3d9dab06ddf82a101855127a0808c90865e1f40edac8a7df0652ddcb2cc2dc"
 metafile = true
@@ -1152,6 +1166,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "69a8280b159bc955f6b1e1811de1f9c16372b6dc5cbd5d7c69d55e9c1e41d06f"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a8d57b57a2b2fceffba4e63bd71a0d1b05c837d9597943189149b08b2e2430cd"
 metafile = true
 
 [[files]]
@@ -1373,10 +1392,6 @@ file = "resourcepacks/Excalibur_Mod_Support_V1.18.1.1.zip"
 hash = "e85e0d0cc64e531fd798d80746091226885d9e7916df4cf57f5ef735c1d72cad"
 
 [[files]]
-file = "resourcepacks/FreshplayerEdit6without_eyes_Fixedmodel.zip"
-hash = "0e7af6adec57763bb2dc966919976da60ddd96024960525537eabce73e8f0b63"
-
-[[files]]
 file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
 hash = "a6a782f3a471a5ea283638d533ba8a53db7b380c0fcaac8b95154351ebc58589"
 
@@ -1408,11 +1423,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/excalibur.pw.toml"
 hash = "d9351239b2e95438cf49158c6cbdab241319bf3f0891319466635e858125fde0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "8be126152fbb7964a67bebe5f513acf2ac05e23b10f2a474207cbe5c89725b04"
 metafile = true
 
 [[files]]
