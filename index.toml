@@ -1412,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-simple-storage.pw.toml"
-hash = "ff97a89d120353c2c73ac198e8e2e68257d28e84ef853813bdde8b2fff44366d"
+hash = "345e984c0e019355bb867d74887e64bd5e06d36d59fc1dcead2a2c2e281931fc"
 metafile = true
 
 [[files]]
