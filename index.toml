@@ -605,14 +605,6 @@ file = "config/valkyrienskies/schemas/vs_core_server.schema.json"
 hash = "469995a2897fdb65b825f4eb6cd550f35d3ba28c9a796dd91de0a7f8d436fb48"
 
 [[files]]
-file = "config/valkyrienskies/schemas/vs_eureka_client.schema.json"
-hash = "c335d926a3d773484252e6460257f513e58bb62e470fe059a14a69a09b90d5bd"
-
-[[files]]
-file = "config/valkyrienskies/schemas/vs_eureka_server.schema.json"
-hash = "0423ba69cf5ef57b92fec29292007c36cc7336be761f41a9a8db6cd807e388b3"
-
-[[files]]
 file = "config/valkyrienskies/schemas/vs_server.schema.json"
 hash = "a341bb0adb20cc6127d3a6d10fb4e1627b5a20fcd4c0810a30751415b35d9be3"
 
@@ -623,14 +615,6 @@ hash = "cf01bce7e3e7e4e2b132b2864a526ee301269c35eca44a690cf7f9f54760ead4"
 [[files]]
 file = "config/valkyrienskies/vs_core_server.json"
 hash = "55e2c132fe6b203e1f11cbf8b8da5841e9e26814e8cbfbf33457e8b6bd65a465"
-
-[[files]]
-file = "config/valkyrienskies/vs_eureka_client.json"
-hash = "0a7d294b51f259b447a92e368da137f612bb9ff33ed8d390b49149aed3ca2a03"
-
-[[files]]
-file = "config/valkyrienskies/vs_eureka_server.json"
-hash = "91b6b71fa67659554e9e6ef13074f3fd73d230063a0d7c26c578b2e5d357a460"
 
 [[files]]
 file = "config/valkyrienskies/vs_server.json"
@@ -980,11 +964,6 @@ hash = "4683b683627235d7fddac81bd7b68dcb4c177ff6b033fa557a14d8c37bb9e5e8"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "08c7e1d333d0ade5c60fc9844f272f2e59a0d8ecb2aaffd09703b7d38e5ac0c8"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "2d4ff7203bec8d382fad2afa6ffc135a41a940e67e49f7feedd67674d2153fa4"
 metafile = true
@@ -1313,6 +1292,10 @@ hash = "95564eb3ae654cbda3891a3769ea2206a85994dd8777fa622fb6bc2beb79f0cc"
 metafile = true
 
 [[files]]
+file = "mods/tournament-forge-1.1.0_beta-3+e8ec9b744c.jar"
+hash = "fdca3f564d7aedbe203b4a7c003e022fda3dc98681d3031f09923cef94b482ba"
+
+[[files]]
 file = "mods/trackwork-1.18.2-0.0.1h1-alpha.jar"
 hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"
 
@@ -1392,11 +1375,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-simple-storage.pw.toml"
 hash = "ff97a89d120353c2c73ac198e8e2e68257d28e84ef853813bdde8b2fff44366d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/eureka-create-airships.pw.toml"
-hash = "b742d364a36bdb789bf717695e616cd3d96ac829d77c265a59bba19b1e3eb9d3"
 metafile = true
 
 [[files]]
