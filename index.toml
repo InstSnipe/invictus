@@ -1264,6 +1264,11 @@ hash = "214821363081d9792f493d2a2e0ded6242527860793ecd82f564ad890c69a8cc"
 metafile = true
 
 [[files]]
+file = "mods/shimmer.pw.toml"
+hash = "5a9465fe14b36e157fcc46f971a0a233e2ad3f01a313b9e5f35af01f6bc78d07"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "18ab8e3ffefa18e8a5aa983484d32dc2df0f566c7fd9b4c6d5f3ed4a56c64a61"
 metafile = true
@@ -1394,6 +1399,11 @@ hash = "e85e0d0cc64e531fd798d80746091226885d9e7916df4cf57f5ef735c1d72cad"
 [[files]]
 file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
 hash = "a6a782f3a471a5ea283638d533ba8a53db7b380c0fcaac8b95154351ebc58589"
+
+[[files]]
+file = "resourcepacks/blooming-blocks.pw.toml"
+hash = "7d91a618996184e03c0db8251528c810f0550ee395e82e60dae51c2d4455682a"
+metafile = true
 
 [[files]]
 file = "resourcepacks/cgm-audio-visual-enhancements.pw.toml"
