@@ -989,6 +989,11 @@ hash = "b3a396325c42c544f55ddc06c909e5a82d3e89ec03ce82ec8c0dc6c7e8d4b83a"
 metafile = true
 
 [[files]]
+file = "mods/fog-looks-good-now.pw.toml"
+hash = "cca9e185dc8219e1f5e7489c81088c0ac171bdf2e63cae4c4689a0c0522d3719"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "208229cac3d1277da4a289f0691f2834046d0e7685c1bbacf758d4c2f6208f59"
 metafile = true
