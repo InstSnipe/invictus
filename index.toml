@@ -906,6 +906,11 @@ file = "mods/design_decor-0.2a-1.18.2.jar"
 hash = "3c731613cb4422b999e4f9c551f38af097413dd9f055748cbadb9ae8d0b9548c"
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "ce026fd0514b1ca7d8dfc7816044f4d3b36c7f74d90f7751eed4e75acaf7d044"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "adb800884ecd66a0271b2b188016630d236de78d6ae8e0d7d94f6cb55b4a11ea"
 metafile = true
