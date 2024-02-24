@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "d9d04d251b37cb2c2c88e194ca5517c2b41907b450cf39bf92d8c99d8e5a0462"
+hash = "804a94692351f6977836b22978dcc7a89e33aad60019150dcab574112d3ea225"
 metafile = true
 
 [[files]]
@@ -936,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "2c0fbacc127733ec27cbc1982c7ce8ecf4f3ec5f2c909415ed74f397e4756833"
+hash = "9f673acfe706624caa98d92180fe3a6653342c901acbf221a885f1f93f16e392"
 metafile = true
 
 [[files]]
@@ -1065,11 +1065,6 @@ hash = "7effc0338b184caa6d100e6eefc21afb860fb61cac9e21ce1c84785eff9fe1ee"
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "39f27b8ee817ad146e795b1b8c344550bc929c06b6ab386a7400b6650211c2ab"
-metafile = true
-
-[[files]]
-file = "mods/kubevs.pw.toml"
-hash = "6e3f08a7bfb4e43f5bfcf856ec9ab2be2cd4dc987c391dd42700fec50efc3c8d"
 metafile = true
 
 [[files]]
@@ -1313,10 +1308,6 @@ metafile = true
 file = "mods/visuality-reforged.pw.toml"
 hash = "e113c21664ee67b1067d502ca68a59ca3593d71f530eb206e83d2ee2d0439b52"
 metafile = true
-
-[[files]]
-file = "mods/vs_addon_template-1.18.2-common-0.0.1-alpha.jar"
-hash = "35ad352488a5d36cd82502354e3787ab14672497235c674ff119bf617dcc75d4"
 
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
