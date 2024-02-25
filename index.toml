@@ -752,6 +752,11 @@ hash = "e6f017c5bd2f96d6c03ff608311db6814dff06d1761881c79b9565922fd3ab74"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "724856d978749dffd4ca099c75483ec3c7c03749f9b6811f15c4e2e51e3fa388"
+metafile = true
+
+[[files]]
 file = "mods/connectedness.pw.toml"
 hash = "7a8a1ea83d534852642fc5427b9594d439df97e891363cdb04baaf6a6ee6e901"
 metafile = true
@@ -920,6 +925,16 @@ file = "mods/dsbg-1.0-1.18.2.jar"
 hash = "cd553ead22fac0b4f2e13fddf49e8e8d60ac6b1249182a32eed29f02dadde7d5"
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "b259e2f495300cee6f1ad2ada1d661c0e378655a47019c59aea09e35da19f81c"
+metafile = true
+
+[[files]]
+file = "mods/ecospherical-expansion.pw.toml"
+hash = "71c55f0560a5c772bed604afbe5ffce3129f6ae6a60d48d148715a67e812bb50"
+metafile = true
+
+[[files]]
 file = "mods/effective-forge.pw.toml"
 hash = "abe39ad8a84f594341713b21da9d5a7881f3a7283dcd3ac6d109af17acdd813f"
 metafile = true
@@ -956,6 +971,11 @@ hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"
 [[files]]
 file = "mods/environmental-creepers.pw.toml"
 hash = "4683b683627235d7fddac81bd7b68dcb4c177ff6b033fa557a14d8c37bb9e5e8"
+metafile = true
+
+[[files]]
+file = "mods/excavated_variants.pw.toml"
+hash = "197556d103153563bd7070de881e185753ab21e152cf4b498dd635982ae9babf"
 metafile = true
 
 [[files]]
@@ -1108,6 +1128,11 @@ hash = "18f85b0af72c0e002457d758fdc443e54a73353bd25da0ca9c6051c91f29667d"
 metafile = true
 
 [[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "6908f63e5517439da0580066a21c68cb81e52ad5512afe45188bf1f5f8493e9f"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "50dc2f65f8b8d0249187c57e28608fd25555ba5317fb8ec4e440fd0428ba254a"
 metafile = true
@@ -1170,6 +1195,11 @@ metafile = true
 [[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "77d4e8b016a472641d05d12ca1641d7e4d8fddc6f932de68effa745f82a86da3"
+metafile = true
+
+[[files]]
+file = "mods/random-bone-meal-flowers.pw.toml"
+hash = "ac327e162e38fdc3091354d877b575fe95024e8d5db942543d9efeec151fb7d1"
 metafile = true
 
 [[files]]
@@ -1262,13 +1292,8 @@ hash = "ee03e9bed710ce8fb782edc5a4fd5b879ffd969bb77fbdef72993221666dbdef"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "4adf594e5f65bf0e89606a715b7c74e49f832fcefa713c6a6687c71a4982bccc"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
-hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
+hash = "dc241d2dbc9f38d9ab71ecb899b871c3aef37871ae9f6d83440498cfa0a0829d"
 metafile = true
 
 [[files]]
@@ -1293,6 +1318,11 @@ hash = "fdca3f564d7aedbe203b4a7c003e022fda3dc98681d3031f09923cef94b482ba"
 [[files]]
 file = "mods/trackwork-1.18.2-0.0.1h1-alpha.jar"
 hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"
+
+[[files]]
+file = "mods/trailstales-backport.pw.toml"
+hash = "1df0ad544325ae08f5bf47636de4893b0ec8ca7530b21b590ba5826a09c05bb0"
+metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"

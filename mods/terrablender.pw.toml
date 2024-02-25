@@ -1,13 +1,13 @@
-name = "TerraBlender (Forge)"
+name = "TerraBlender"
 filename = "TerraBlender-forge-1.18.2-1.2.0.126.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/dH8dFULh/TerraBlender-forge-1.18.2-1.2.0.126.jar"
 hash-format = "sha1"
 hash = "b8a025042f55dc78d38a319bd71e3901e9d00331"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3957976
-project-id = 563928
+[update.modrinth]
+mod-id = "kkmrDlKT"
+version = "dH8dFULh"
