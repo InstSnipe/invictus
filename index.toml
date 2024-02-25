@@ -920,11 +920,6 @@ file = "mods/dsbg-1.0-1.18.2.jar"
 hash = "cd553ead22fac0b4f2e13fddf49e8e8d60ac6b1249182a32eed29f02dadde7d5"
 
 [[files]]
-file = "mods/ecospherical-expansion.pw.toml"
-hash = "b578ecf3700ef7ad19d989d36fb9aa9f011cd7d7ee835de5e982f4cb1e494372"
-metafile = true
-
-[[files]]
 file = "mods/effective-forge.pw.toml"
 hash = "abe39ad8a84f594341713b21da9d5a7881f3a7283dcd3ac6d109af17acdd813f"
 metafile = true
