@@ -925,6 +925,11 @@ file = "mods/dsbg-1.0-1.18.2.jar"
 hash = "cd553ead22fac0b4f2e13fddf49e8e8d60ac6b1249182a32eed29f02dadde7d5"
 
 [[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+hash = "f6be709df0eed17932522dd3422b9f058602cbc74944f1efea3b0f0eea38634e"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "b259e2f495300cee6f1ad2ada1d661c0e378655a47019c59aea09e35da19f81c"
 metafile = true
