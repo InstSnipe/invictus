@@ -5,6 +5,10 @@ file = "config/Mekanism/client.toml"
 hash = "b45735dfd5440103879de13c0d3692ebe8d8b3165e7a6f29f91f6a8175fad3ac"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "3b0a9192acc8ba50325d7f16f49a9818308fb967a04d6c3b882b856a8d98756b"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -78,7 +82,7 @@ hash = "26b027938079de4cae4676bcc2ed172a21894e0f9353ea828aed249b9507e14e"
 
 [[files]]
 file = "config/Weather2/Tornado.toml"
-hash = "30ac477bb029288a750d3135944446cadd14b42bbdbd5b4b49956352da691901"
+hash = "e2ba9da589dadc9f55ed129ca39e3fe3c63f32e6953ce00a9129c73cb50c876b"
 
 [[files]]
 file = "config/Weather2/Wind.toml"
@@ -167,22 +171,6 @@ hash = "e179a37940aae40e70d133454dce3dbf86745ae00eb0c2ea95a54a1e63731836"
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "7bcb783ef0a2a645675bbd818c717c9f4dc076e1cbb3d83a13e6cb733790e40f"
-
-[[files]]
-file = "config/dsurround/dsurround-client.toml"
-hash = "3abb9f4c16fee1d97b54b69fbd3a6be9d5167f8d2199cb7dd4aad330a0ca7141"
-
-[[files]]
-file = "config/dsurround/environs-client.toml"
-hash = "bd4afd0fbbf554516a222e44898c2626626ef6c8a985f9e0e8d3751bfa04d8e2"
-
-[[files]]
-file = "config/dsurround/mobeffects-client.toml"
-hash = "3bf3e303057e61b43e9077c99721c46d7718b30013a49cb8e88e5eb64e6633f5"
-
-[[files]]
-file = "config/dsurround/sndctrl-client.toml"
-hash = "6b4a0145028ebe464aadfe0254fa1daf63704279f165d019d00c88a156a3a294"
 
 [[files]]
 file = "config/embeddium++.toml"
@@ -565,6 +553,10 @@ file = "config/railways-client.toml"
 hash = "7a8828ce6749cbe3121b411092909db4f91098d43f331fc71a5ecd82429577e3"
 
 [[files]]
+file = "config/realcamera.json"
+hash = "0f6cec32a1cf308333604634c76576ce6b1f33b44aa28f3e382a08a549adbcac"
+
+[[files]]
 file = "config/reforgium-renderer.properties"
 hash = "ba437ce87731b1927e8cdd723f309abb9c5cd74cba913dd0620342403e1c01fb"
 
@@ -617,14 +609,6 @@ file = "config/valkyrienskies/schemas/vs_core_server.schema.json"
 hash = "469995a2897fdb65b825f4eb6cd550f35d3ba28c9a796dd91de0a7f8d436fb48"
 
 [[files]]
-file = "config/valkyrienskies/schemas/vs_eureka_client.schema.json"
-hash = "c335d926a3d773484252e6460257f513e58bb62e470fe059a14a69a09b90d5bd"
-
-[[files]]
-file = "config/valkyrienskies/schemas/vs_eureka_server.schema.json"
-hash = "0423ba69cf5ef57b92fec29292007c36cc7336be761f41a9a8db6cd807e388b3"
-
-[[files]]
 file = "config/valkyrienskies/schemas/vs_server.schema.json"
 hash = "a341bb0adb20cc6127d3a6d10fb4e1627b5a20fcd4c0810a30751415b35d9be3"
 
@@ -635,14 +619,6 @@ hash = "cf01bce7e3e7e4e2b132b2864a526ee301269c35eca44a690cf7f9f54760ead4"
 [[files]]
 file = "config/valkyrienskies/vs_core_server.json"
 hash = "55e2c132fe6b203e1f11cbf8b8da5841e9e26814e8cbfbf33457e8b6bd65a465"
-
-[[files]]
-file = "config/valkyrienskies/vs_eureka_client.json"
-hash = "0a7d294b51f259b447a92e368da137f612bb9ff33ed8d390b49149aed3ca2a03"
-
-[[files]]
-file = "config/valkyrienskies/vs_eureka_server.json"
-hash = "91b6b71fa67659554e9e6ef13074f3fd73d230063a0d7c26c578b2e5d357a460"
 
 [[files]]
 file = "config/valkyrienskies/vs_server.json"
@@ -721,12 +697,12 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
-file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
-hash = "eaa0a560d8e0cff41a3706afd58421233641caa7393e11159c7c964ee64fa340"
+file = "kubejs/server_scripts/nomekanism.js"
+hash = "beb16df218b825f7f81ca86adbecbcdfa4c76e525fc68915579a4123671ef1fd"
 
 [[files]]
-file = "mods/ImmersiveFX 1.0.0gm 1.18.2.jar"
-hash = "358cf0ae8de4233ea83d717a65a9db949bac319da39d1f828c84eb9b9c5180d4"
+file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
+hash = "eaa0a560d8e0cff41a3706afd58421233641caa7393e11159c7c964ee64fa340"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -968,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e8ffe8fa323243174cdf8333951e01423c44a761232df7a8529fc4e031db4929"
+hash = "9f673acfe706624caa98d92180fe3a6653342c901acbf221a885f1f93f16e392"
 metafile = true
 
 [[files]]
@@ -993,11 +969,6 @@ hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"
 [[files]]
 file = "mods/environmental-creepers.pw.toml"
 hash = "4683b683627235d7fddac81bd7b68dcb4c177ff6b033fa557a14d8c37bb9e5e8"
-metafile = true
-
-[[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "08c7e1d333d0ade5c60fc9844f272f2e59a0d8ecb2aaffd09703b7d38e5ac0c8"
 metafile = true
 
 [[files]]
@@ -1028,6 +999,16 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "e93eb7cecf30996453526c1469be40475ac70c29d16f130b4524d63198cb5576"
+metafile = true
+
+[[files]]
+file = "mods/game-menu-remove-gfarb.pw.toml"
+hash = "35c84aab2aa9144d73c1cea25fa4bce2ce67269a5651e1f39b658bbd348efda5"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
 metafile = true
 
 [[files]]
@@ -1100,11 +1081,6 @@ hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
 metafile = true
 
 [[files]]
-file = "mods/kubevs.pw.toml"
-hash = "6e3f08a7bfb4e43f5bfcf856ec9ab2be2cd4dc987c391dd42700fec50efc3c8d"
-metafile = true
-
-[[files]]
 file = "mods/labels.pw.toml"
 hash = "0dd99a22095707ce78ae958158430f758d3da9ede3d520b4da28119c96796aed"
 metafile = true
@@ -1122,11 +1098,6 @@ metafile = true
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
 hash = "44276229d7142723fbdb5e4c3418351f97ad7f3ff65b1d5996d39d561efb11d0"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "8fb2574cdfc28ad13c764c7c8f799c58753e333f85e05a6bd12821a1d270a487"
 metafile = true
 
 [[files]]
@@ -1334,6 +1305,10 @@ hash = "95564eb3ae654cbda3891a3769ea2206a85994dd8777fa622fb6bc2beb79f0cc"
 metafile = true
 
 [[files]]
+file = "mods/tournament-forge-1.1.0_beta-3+e8ec9b744c.jar"
+hash = "fdca3f564d7aedbe203b4a7c003e022fda3dc98681d3031f09923cef94b482ba"
+
+[[files]]
 file = "mods/trackwork-1.18.2-0.0.1h1-alpha.jar"
 hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"
 
@@ -1413,11 +1388,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-simple-storage.pw.toml"
 hash = "ff97a89d120353c2c73ac198e8e2e68257d28e84ef853813bdde8b2fff44366d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/eureka-create-airships.pw.toml"
-hash = "b742d364a36bdb789bf717695e616cd3d96ac829d77c265a59bba19b1e3eb9d3"
 metafile = true
 
 [[files]]
