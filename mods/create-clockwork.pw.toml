@@ -1,5 +1,5 @@
 name = "Clockwork: Create x Valkyrien Skies"
-filename = "clockwork-1.18.2-0.1.2-forge-3958f2e647.jar"
+filename = "clockwork-1.18.2-0.1.4-forge-df2c1c3e57.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5069205
+file-id = 5123824
 project-id = 807792

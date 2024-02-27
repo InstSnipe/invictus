@@ -1,0 +1,13 @@
+name = "Missing Wilds"
+filename = "MissingWilds-forge-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.0-FORGE/MissingWilds-forge-1.18.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "075b7f1f3c4baa06732c28bc450b2e8b8eb5184a"
+
+[update]
+[update.modrinth]
+mod-id = "Nw0MStSd"
+version = "szQITYw5"
