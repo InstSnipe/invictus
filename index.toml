@@ -1014,11 +1014,6 @@ hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
 metafile = true
 
 [[files]]
-file = "mods/hourglass.pw.toml"
-hash = "ac3d9dab06ddf82a101855127a0808c90865e1f40edac8a7df0652ddcb2cc2dc"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "09ac16337c201c3139a1d543e68f41e29161029ea051db155baa184fb08df59a"
 metafile = true
