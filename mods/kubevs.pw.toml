@@ -1,0 +1,13 @@
+name = "KubeVS"
+filename = "kubevs-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b6ef9ed022afd6fc61a9d200aab032de255890e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5031109
+project-id = 915793
