@@ -940,11 +940,6 @@ hash = "b259e2f495300cee6f1ad2ada1d661c0e378655a47019c59aea09e35da19f81c"
 metafile = true
 
 [[files]]
-file = "mods/ecospherical-expansion.pw.toml"
-hash = "71c55f0560a5c772bed604afbe5ffce3129f6ae6a60d48d148715a67e812bb50"
-metafile = true
-
-[[files]]
 file = "mods/effective-forge.pw.toml"
 hash = "abe39ad8a84f594341713b21da9d5a7881f3a7283dcd3ac6d109af17acdd813f"
 metafile = true
