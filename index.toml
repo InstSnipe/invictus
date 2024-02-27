@@ -5,6 +5,10 @@ file = "config/Mekanism/client.toml"
 hash = "b45735dfd5440103879de13c0d3692ebe8d8b3165e7a6f29f91f6a8175fad3ac"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "3b0a9192acc8ba50325d7f16f49a9818308fb967a04d6c3b882b856a8d98756b"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -693,6 +697,10 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "kubejs/server_scripts/nomekanism.js"
+hash = "beb16df218b825f7f81ca86adbecbcdfa4c76e525fc68915579a4123671ef1fd"
+
+[[files]]
 file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
 hash = "eaa0a560d8e0cff41a3706afd58421233641caa7393e11159c7c964ee64fa340"
 
@@ -703,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c5a3484d8c1ecee3dd7d64ca3c4fb602f8d3bfe3d7143389f0784de6ce372e60"
+hash = "0112d33ef55ca337e21a5d71bb570ef8a72eb408f68ad1c9b7f58835cf579980"
 metafile = true
 
 [[files]]
@@ -1098,6 +1106,11 @@ hash = "39f27b8ee817ad146e795b1b8c344550bc929c06b6ab386a7400b6650211c2ab"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
+metafile = true
+
+[[files]]
 file = "mods/kubevs.pw.toml"
 hash = "6e3f08a7bfb4e43f5bfcf856ec9ab2be2cd4dc987c391dd42700fec50efc3c8d"
 metafile = true
@@ -1120,11 +1133,6 @@ metafile = true
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
 hash = "44276229d7142723fbdb5e4c3418351f97ad7f3ff65b1d5996d39d561efb11d0"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "8fb2574cdfc28ad13c764c7c8f799c58753e333f85e05a6bd12821a1d270a487"
 metafile = true
 
 [[files]]
@@ -1230,6 +1238,11 @@ metafile = true
 [[files]]
 file = "mods/reforgium.pw.toml"
 hash = "b4e63d988e0df602838c681e56ee4fbee42f6c9c38867cafd9b5b6ff99c4d805"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
 metafile = true
 
 [[files]]
