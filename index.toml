@@ -916,6 +916,11 @@ file = "mods/design_decor-0.2a-1.18.2.jar"
 hash = "3c731613cb4422b999e4f9c551f38af097413dd9f055748cbadb9ae8d0b9548c"
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "ce026fd0514b1ca7d8dfc7816044f4d3b36c7f74d90f7751eed4e75acaf7d044"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "adb800884ecd66a0271b2b188016630d236de78d6ae8e0d7d94f6cb55b4a11ea"
 metafile = true
@@ -1009,6 +1014,11 @@ hash = "b3a396325c42c544f55ddc06c909e5a82d3e89ec03ce82ec8c0dc6c7e8d4b83a"
 metafile = true
 
 [[files]]
+file = "mods/fog-looks-good-now.pw.toml"
+hash = "cca9e185dc8219e1f5e7489c81088c0ac171bdf2e63cae4c4689a0c0522d3719"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "208229cac3d1277da4a289f0691f2834046d0e7685c1bbacf758d4c2f6208f59"
 metafile = true
@@ -1026,11 +1036,6 @@ metafile = true
 [[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
-metafile = true
-
-[[files]]
-file = "mods/hourglass.pw.toml"
-hash = "ac3d9dab06ddf82a101855127a0808c90865e1f40edac8a7df0652ddcb2cc2dc"
 metafile = true
 
 [[files]]
@@ -1275,6 +1280,11 @@ metafile = true
 [[files]]
 file = "mods/skinlayers3d-forge-1.6.2-mc1.18.2.jar"
 hash = "70262ee60ef476a50c4cd6424569e2fa526c931aa37f4d4cbfb7f0dee76916ff"
+
+[[files]]
+file = "mods/sleeping-overhaul-2.pw.toml"
+hash = "047fd28b7699f038522b2efe9f0bc731e4f0a35ae6ac60e33a8ec65c4462e5d1"
+metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
