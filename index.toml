@@ -1247,6 +1247,11 @@ file = "mods/skinlayers3d-forge-1.6.2-mc1.18.2.jar"
 hash = "70262ee60ef476a50c4cd6424569e2fa526c931aa37f4d4cbfb7f0dee76916ff"
 
 [[files]]
+file = "mods/sleeping-overhaul-2.pw.toml"
+hash = "047fd28b7699f038522b2efe9f0bc731e4f0a35ae6ac60e33a8ec65c4462e5d1"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "486ee0d16dac7ffae28e97a5d281d2b57d6954bae04178544369be9103b41e69"
 metafile = true
