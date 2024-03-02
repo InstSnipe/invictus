@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "8215798e541ba3ba757cde22f4efd16f766c8231f03f7f48ca9fd9d2c6ca60c7"
+
+[[files]]
 file = "config/Mekanism/client.toml"
 hash = "b45735dfd5440103879de13c0d3692ebe8d8b3165e7a6f29f91f6a8175fad3ac"
 
@@ -167,6 +171,10 @@ hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 [[files]]
 file = "config/curious-lanterns-client.toml"
 hash = "e179a37940aae40e70d133454dce3dbf86745ae00eb0c2ea95a54a1e63731836"
+
+[[files]]
+file = "config/distantfriends-common.toml"
+hash = "e3b9d81a39b5037ced67dcf871f217757c4f606e7f0665cd8dbb9a3da2397393"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
