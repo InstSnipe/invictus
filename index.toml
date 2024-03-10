@@ -705,6 +705,11 @@ file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
 hash = "eaa0a560d8e0cff41a3706afd58421233641caa7393e11159c7c964ee64fa340"
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "3f0cc4810d4ada8f2c7d5365f6d65143a980a4b9b689c7c1cf98fde716e023c5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6458cab78730080553b36b0377808405e254d0271fbfdfd7d089977ad9806b77"
 metafile = true
