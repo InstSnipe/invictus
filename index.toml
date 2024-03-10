@@ -1136,6 +1136,11 @@ hash = "44276229d7142723fbdb5e4c3418351f97ad7f3ff65b1d5996d39d561efb11d0"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "90a0852575af8546740b37eb9aca1f22d0546a2c0ff66177500e574cd80c8429"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "bb0e6fa41ee8ee39daa76ec46ff0ab9ed284e2e2a105d6770762cffc27c12021"
 metafile = true
