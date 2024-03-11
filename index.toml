@@ -843,8 +843,18 @@ hash = "df59e1e3629c7cd58d013c3d3a9421069a6bb69ce618e8f9e63c9a71ac66be8a"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "4ebe6aa94e94bc360e7297033e220cc410d78c13c444f16c05e5ab4f1153bbda"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "72ed55105b929ad3912d7df50ac39b91743c8756702b12dd541c7af942ce2a1f"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "c9d8cacabac37c4abdf3dea991145607f750cbae42d01b926c7b11de5942e021"
 metafile = true
 
 [[files]]
@@ -884,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ffa9e3c2a960f0efc1ade488f4797721ada05c68ce1a0ce71199c4ee18a21a83"
+hash = "8cd6e0ba62f3f5962a824170bbf52fd502cbfec5b861fb24757e8283dd351fd1"
 metafile = true
 
 [[files]]
@@ -951,6 +961,11 @@ file = "mods/dsbg-1.0-1.18.2.jar"
 hash = "cd553ead22fac0b4f2e13fddf49e8e8d60ac6b1249182a32eed29f02dadde7d5"
 
 [[files]]
+file = "mods/dsbg.pw.toml"
+hash = "64b5b70c8499dc31b2cc0ac9f52425866d971ac55be221eac09c69c1fe167281"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_asset_generator.pw.toml"
 hash = "f6be709df0eed17932522dd3422b9f058602cbc74944f1efea3b0f0eea38634e"
 metafile = true
@@ -993,6 +1008,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling-forge-1.6.1-mc1.18.2.jar"
 hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
+metafile = true
 
 [[files]]
 file = "mods/environmental-creepers.pw.toml"
