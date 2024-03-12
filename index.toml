@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8215798e541ba3ba757cde22f4efd16f766c8231f03f7f48ca9fd9d2c6ca60c7"
+hash = "bb10418ad5fa8be64465bd683c61adf4e6232167b8499995bd1d0d5752b68dd4"
 
 [[files]]
 file = "config/Mekanism/client.toml"
@@ -562,7 +562,7 @@ hash = "7a8828ce6749cbe3121b411092909db4f91098d43f331fc71a5ecd82429577e3"
 
 [[files]]
 file = "config/realcamera.json"
-hash = "0f6cec32a1cf308333604634c76576ce6b1f33b44aa28f3e382a08a549adbcac"
+hash = "654eca489f6c1464cbbf8053a3217534293801c7ea7ef176237871355d21ae82"
 
 [[files]]
 file = "config/reforgium-renderer.properties"
@@ -743,6 +743,10 @@ hash = "625d64f98bb949f5c5e2f1ffe557e8eb6f969a08ca1b041a3317d6e85151d60c"
 metafile = true
 
 [[files]]
+file = "mods/bulletfix1.0.jar"
+hash = "67ec68369e16f9cbd8535e74d1b8428534cc6af6c8ef38cbf30b35505e5b29e5"
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "c6956943ba02fe8e01d18fb736e7f2bd52264a853ed58538b7172be3e41c0a42"
 metafile = true
@@ -808,11 +812,6 @@ hash = "c8964eeb9fc3fc2a95681c73b6ab2f38a06c06c4849b0a220c80f11d6bf3ec03"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "7203cda5fd0d72cf462412b60959931b8836dbe0c78c9b4c40ea143d74a0771a"
-metafile = true
-
-[[files]]
 file = "mods/create-alloyed.pw.toml"
 hash = "d63752b07d456d7eddf88470e06f0c05b6cbac0ce9c0801d052e4cf429408e18"
 metafile = true
@@ -843,18 +842,8 @@ hash = "df59e1e3629c7cd58d013c3d3a9421069a6bb69ce618e8f9e63c9a71ac66be8a"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "4ebe6aa94e94bc360e7297033e220cc410d78c13c444f16c05e5ab4f1153bbda"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "72ed55105b929ad3912d7df50ac39b91743c8756702b12dd541c7af942ce2a1f"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "c9d8cacabac37c4abdf3dea991145607f750cbae42d01b926c7b11de5942e021"
 metafile = true
 
 [[files]]
@@ -870,11 +859,6 @@ metafile = true
 [[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "83ee037c930abb8ce4e50290a28b072f60e40dff61a0e2ab8bf8534d5815336a"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "28326ffaab733266b1a9df3f544173694f4b887184a3ca12feb6322f1b289aee"
 metafile = true
 
 [[files]]
@@ -894,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "8cd6e0ba62f3f5962a824170bbf52fd502cbfec5b861fb24757e8283dd351fd1"
+hash = "ffa9e3c2a960f0efc1ade488f4797721ada05c68ce1a0ce71199c4ee18a21a83"
 metafile = true
 
 [[files]]
@@ -957,10 +941,6 @@ hash = "2bfebdc8cbccbf45a166d28f7302a238659c7c76182b5fe9160125d0ec48eba9"
 metafile = true
 
 [[files]]
-file = "mods/dsbg-1.0-1.18.2.jar"
-hash = "cd553ead22fac0b4f2e13fddf49e8e8d60ac6b1249182a32eed29f02dadde7d5"
-
-[[files]]
 file = "mods/dsbg.pw.toml"
 hash = "64b5b70c8499dc31b2cc0ac9f52425866d971ac55be221eac09c69c1fe167281"
 metafile = true
@@ -1004,10 +984,6 @@ metafile = true
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "260b09baedc4df107e599edf12d4fcf329989af1064a0d1df229b05b56ca6a34"
 metafile = true
-
-[[files]]
-file = "mods/entityculling-forge-1.6.1-mc1.18.2.jar"
-hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -1115,11 +1091,6 @@ hash = "f14488e81bf23658e9fac12dee7a31d76249096f4fa3da437ae7c76aa1589ab6"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences-forge.pw.toml"
-hash = "43bf7fcef15e192d0cbacf2864715d2f500ac71dcacaaacfcbd7cde691686ad9"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "09703a6a17d155517d9a99f0ac08f3a038f4c6dcb215bf14ff6cd095dd523395"
 metafile = true
@@ -1136,11 +1107,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
-metafile = true
-
-[[files]]
-file = "mods/kubevs.pw.toml"
-hash = "6e3f08a7bfb4e43f5bfcf856ec9ab2be2cd4dc987c391dd42700fec50efc3c8d"
 metafile = true
 
 [[files]]
@@ -1184,11 +1150,6 @@ hash = "18f85b0af72c0e002457d758fdc443e54a73353bd25da0ca9c6051c91f29667d"
 metafile = true
 
 [[files]]
-file = "mods/missing-wilds.pw.toml"
-hash = "6908f63e5517439da0580066a21c68cb81e52ad5512afe45188bf1f5f8493e9f"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "50dc2f65f8b8d0249187c57e28608fd25555ba5317fb8ec4e440fd0428ba254a"
 metafile = true
@@ -1214,11 +1175,6 @@ hash = "e26fb090b2cb1a3af172708defa8dfb0b82fa59a148e7822ca9db9f0789e5a3e"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer-forge.pw.toml"
-hash = "c5430c70a447f293473aece0c150558bcacc3b072244253ad4af36c53607250a"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "463232f82ef7c7e4294298832ea41af897f42f04490abf7279105bd8074260e5"
 metafile = true
@@ -1236,11 +1192,6 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "56abe45b58b09fc0ee6389ea383b3d8464558cc878503940b35acc8cc4f81a7b"
-metafile = true
-
-[[files]]
-file = "mods/project-676162.pw.toml"
-hash = "e29303105cddeb9dcce8543c227a02164de318325dde3c7961c069a326ec0050"
 metafile = true
 
 [[files]]
@@ -1319,10 +1270,6 @@ hash = "bc58526dcc40311051b7d950055f52a6f27cb6a532c35a8ca3aa35b04e76f421"
 metafile = true
 
 [[files]]
-file = "mods/skinlayers3d-forge-1.6.2-mc1.18.2.jar"
-hash = "70262ee60ef476a50c4cd6424569e2fa526c931aa37f4d4cbfb7f0dee76916ff"
-
-[[files]]
 file = "mods/sleeping-overhaul-2.pw.toml"
 hash = "047fd28b7699f038522b2efe9f0bc731e4f0a35ae6ac60e33a8ec65c4462e5d1"
 metafile = true
@@ -1355,11 +1302,6 @@ metafile = true
 [[files]]
 file = "mods/steel-armor-blocks.pw.toml"
 hash = "ee03e9bed710ce8fb782edc5a4fd5b879ffd969bb77fbdef72993221666dbdef"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "dc241d2dbc9f38d9ab71ecb899b871c3aef37871ae9f6d83440498cfa0a0829d"
 metafile = true
 
 [[files]]
