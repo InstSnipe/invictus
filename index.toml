@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs_addon_template-1.18.2-common-0.0.1-alpha.jar"
-hash = "35ad352488a5d36cd82502354e3787ab14672497235c674ff119bf617dcc75d4"
+hash = "d7c82569cfdb3a01eed8616328a19cc40bbdb3514f158159fbc2627d3a9430d8"
 
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
