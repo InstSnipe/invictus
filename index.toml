@@ -1145,11 +1145,6 @@ hash = "239d21aae246b19cf32bbcfc5ab275c2caaf2e35a0d71710d8ecc68650d32cac"
 metafile = true
 
 [[files]]
-file = "mods/mimi-mod.pw.toml"
-hash = "18f85b0af72c0e002457d758fdc443e54a73353bd25da0ca9c6051c91f29667d"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "50dc2f65f8b8d0249187c57e28608fd25555ba5317fb8ec4e440fd0428ba254a"
 metafile = true
@@ -1230,11 +1225,6 @@ hash = "4a78e03e9ee6e9b198403e90355f2ef3e54672a3815f6fd058ec4b7640f08c40"
 metafile = true
 
 [[files]]
-file = "mods/scorched-guns.pw.toml"
-hash = "4ae897f99cc0e72f2cfe412cf054c9042c60a453aefbcb041b71b5ca24b62f75"
-metafile = true
-
-[[files]]
 file = "mods/seasonhud.pw.toml"
 hash = "ed3773f19aa1c675b5a03354879cb8d940c00f186fbb298180b2e56dca36a3e5"
 metafile = true
@@ -1245,23 +1235,8 @@ hash = "72a5a08bf5d6110346245aafe2d42c0ffdd550b424eaee59c1a350fded7a2879"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons-fix.pw.toml"
-hash = "9ee3286963db7672e80323d3597d6d58eb55a2475884c48cce792150c7bdb612"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "214821363081d9792f493d2a2e0ded6242527860793ecd82f564ad890c69a8cc"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "18ab8e3ffefa18e8a5aa983484d32dc2df0f566c7fd9b4c6d5f3ed4a56c64a61"
-metafile = true
-
-[[files]]
-file = "mods/sit.pw.toml"
-hash = "49148fc0eda2e7bbd95f0311bdef62604bdcaa4e8e48975350a3523a80b2be78"
 metafile = true
 
 [[files]]
@@ -1305,11 +1280,6 @@ hash = "ee03e9bed710ce8fb782edc5a4fd5b879ffd969bb77fbdef72993221666dbdef"
 metafile = true
 
 [[files]]
-file = "mods/this-rocks-forge.pw.toml"
-hash = "ab984e1d32771e6147f091dff3086b16e9488afec0c6f46d3762b7b3937e8404"
-metafile = true
-
-[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "8c38ad6ec5c34c26a227510e7e48ebe404573de9f47a6b1b44738ede3b2df23d"
 metafile = true
@@ -1328,11 +1298,6 @@ file = "mods/trackwork-1.18.2-0.0.1h1-alpha.jar"
 hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"
 
 [[files]]
-file = "mods/trailstales-backport.pw.toml"
-hash = "1df0ad544325ae08f5bf47636de4893b0ec8ca7530b21b590ba5826a09c05bb0"
-metafile = true
-
-[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "b9179ce3154a8f33b5155dbdfdd120d306aded43e19ccf0e978593d5d3b84dd5"
 metafile = true
@@ -1345,11 +1310,6 @@ metafile = true
 [[files]]
 file = "mods/vs_addon_template-1.18.2-common-0.0.1-alpha.jar"
 hash = "d7c82569cfdb3a01eed8616328a19cc40bbdb3514f158159fbc2627d3a9430d8"
-
-[[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "2387cce2bd1146fa29161eb9fc83439a26d8f64706e5838ff7047293296ca20f"
-metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
