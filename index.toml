@@ -1091,6 +1091,11 @@ hash = "f14488e81bf23658e9fac12dee7a31d76249096f4fa3da437ae7c76aa1589ab6"
 metafile = true
 
 [[files]]
+file = "mods/keymap.pw.toml"
+hash = "d3668a141438552a48c73d4423466cfe4dda98d577c577bd1c72f151014722b7"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "09703a6a17d155517d9a99f0ac08f3a038f4c6dcb215bf14ff6cd095dd523395"
 metafile = true
@@ -1142,6 +1147,11 @@ metafile = true
 [[files]]
 file = "mods/merchant-markers.pw.toml"
 hash = "239d21aae246b19cf32bbcfc5ab275c2caaf2e35a0d71710d8ecc68650d32cac"
+metafile = true
+
+[[files]]
+file = "mods/minemenu.pw.toml"
+hash = "079e09126dca2a46b29d6c0dbde9a892dc37e0ba52a4e37dedd3a1cd20a21cb3"
 metafile = true
 
 [[files]]
