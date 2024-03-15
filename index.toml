@@ -1319,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs_addon_template-1.18.2-common-0.0.1-alpha.jar"
-hash = "d7c82569cfdb3a01eed8616328a19cc40bbdb3514f158159fbc2627d3a9430d8"
+hash = "c3dff51449e3922a6f0b39a10483b4a52b0d18f4476dfe33dd17a93c434c6d36"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
