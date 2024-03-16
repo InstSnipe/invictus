@@ -743,6 +743,11 @@ hash = "625d64f98bb949f5c5e2f1ffe557e8eb6f969a08ca1b041a3317d6e85151d60c"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c7fea242250b914c9f41782197a47d431972e5e49728c26980b1d66d2b4c38e2"
+metafile = true
+
+[[files]]
 file = "mods/bulletfix1.0.jar"
 hash = "67ec68369e16f9cbd8535e74d1b8428534cc6af6c8ef38cbf30b35505e5b29e5"
 
