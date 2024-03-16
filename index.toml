@@ -976,6 +976,11 @@ hash = "9f673acfe706624caa98d92180fe3a6653342c901acbf221a885f1f93f16e392"
 metafile = true
 
 [[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "d1d6094dd0906a67e469d407789fbd08ce61b53bd6da714d0cd22237e219b103"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities-reforged-unofficial.pw.toml"
 hash = "dca23632cda86a9426cdab9d481c8e8ca529a86dcb43869d4d544e7d347f76f7"
 metafile = true
@@ -1073,6 +1078,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "7067b51cb7234a33d895c8271e43d2354cc5c209454c2c4ad2e980d3873e29a6"
+metafile = true
+
+[[files]]
+file = "mods/inventorio.pw.toml"
+hash = "fdf9b451eb38d047f521407718e95dd3686f771804e867168655da2078406aa4"
 metafile = true
 
 [[files]]
