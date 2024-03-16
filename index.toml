@@ -747,6 +747,11 @@ file = "mods/bulletfix1.0.jar"
 hash = "67ec68369e16f9cbd8535e74d1b8428534cc6af6c8ef38cbf30b35505e5b29e5"
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "f2003c537074264ef7f1c67dc72e72a79dd5efb39e7d4ee3eec60b0ebad8e938"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "c6956943ba02fe8e01d18fb736e7f2bd52264a853ed58538b7172be3e41c0a42"
 metafile = true
