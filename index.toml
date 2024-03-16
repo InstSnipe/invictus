@@ -1345,20 +1345,12 @@ file = "resourcepacks/Create+Guns+1.18+v4.zip"
 hash = "03acaee13e91d653bdbfce82119b341f2840e07026c02a895c708020b30ab5d6"
 
 [[files]]
-file = "resourcepacks/Custom_Player_Anims_bettercombat_compat.zip"
-hash = "d07499475991ae0d697e8f637972df53cb5c98e0de64493ac2a844ef7f48348a"
-
-[[files]]
 file = "resourcepacks/Excalibur Ore Mod Support 1.16.5.zip"
 hash = "6e03e1c725125956f45128e70b20f78de3ac7ce04817b237e8fee352dd1e6e6f"
 
 [[files]]
 file = "resourcepacks/Excalibur_Mod_Support_V1.18.1.1.zip"
 hash = "e85e0d0cc64e531fd798d80746091226885d9e7916df4cf57f5ef735c1d72cad"
-
-[[files]]
-file = "resourcepacks/FreshplayerEdit6without_eyes_Fixedmodel.zip"
-hash = "0e7af6adec57763bb2dc966919976da60ddd96024960525537eabce73e8f0b63"
 
 [[files]]
 file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
@@ -1372,11 +1364,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/create-computercraft.pw.toml"
 hash = "04f6b3c1a0d8cba521866683afa096964302649d5239f698fefee315399dd95e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-guns-a-scorched-addon.pw.toml"
-hash = "24f0dfdfa053b3d11cb28b70fc05ca33c3016a65c3e427f8e548a2e046029657"
 metafile = true
 
 [[files]]
