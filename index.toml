@@ -1091,11 +1091,6 @@ hash = "fdf9b451eb38d047f521407718e95dd3686f771804e867168655da2078406aa4"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "8a0166b48002e83e9f7426c9e606b86b39968d64ff8542bdf49c0522ba33fd4d"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "afbcf427905cb9b534d9339e3c34350008b361b21c106fd6464ad10ed18f11d3"
 metafile = true
