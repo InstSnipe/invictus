@@ -991,7 +991,7 @@ hash = "3c731613cb4422b999e4f9c551f38af097413dd9f055748cbadb9ae8d0b9548c"
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "ce026fd0514b1ca7d8dfc7816044f4d3b36c7f74d90f7751eed4e75acaf7d044"
+hash = "3f9f4aad8c366562b8e8ffa3f4cca288aaec021086db9be6ee9dc1d1749c35e5"
 metafile = true
 
 [[files]]
@@ -1388,7 +1388,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs_addon_template-1.18.2-common-0.0.1-alpha.jar"
-hash = "c3dff51449e3922a6f0b39a10483b4a52b0d18f4476dfe33dd17a93c434c6d36"
+hash = "c7b7197dd0e17c604c6ec4d30244e2efa4e154a37e702ae38af65bbe329ba7a1"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
