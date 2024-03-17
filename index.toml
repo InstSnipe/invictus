@@ -902,11 +902,6 @@ hash = "ad0d85352cb50cb98fe707dac16b8a8d7f0e99de1e29eed91ed378b1c827f0f3"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "85a8fac24585e339c3666b54353008dea3b9aec0b49374f5c55d49ab7ad3c202"
-metafile = true
-
-[[files]]
 file = "mods/culinary-construct.pw.toml"
 hash = "ac40a302b7e766e76af7794553d6f3158f93385a681a23fcb3917bcb07a10813"
 metafile = true
@@ -1013,11 +1008,6 @@ metafile = true
 [[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "197556d103153563bd7070de881e185753ab21e152cf4b498dd635982ae9babf"
-metafile = true
-
-[[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-hash = "b0c6265e6bf0113dd0d793ffb922b3e5716d95c6e0b4aba91952c3389ec218f1"
 metafile = true
 
 [[files]]
@@ -1162,11 +1152,6 @@ metafile = true
 [[files]]
 file = "mods/merchant-markers.pw.toml"
 hash = "239d21aae246b19cf32bbcfc5ab275c2caaf2e35a0d71710d8ecc68650d32cac"
-metafile = true
-
-[[files]]
-file = "mods/minemenu.pw.toml"
-hash = "079e09126dca2a46b29d6c0dbde9a892dc37e0ba52a4e37dedd3a1cd20a21cb3"
 metafile = true
 
 [[files]]
