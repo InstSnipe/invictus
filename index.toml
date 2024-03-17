@@ -778,12 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "a7516c08b4af399fbc7a8cee7cf90fd3df9ecf9ef3602ed7b797500790af6753"
-metafile = true
-
-[[files]]
-file = "mods/better-ladder-placements.pw.toml"
-hash = "625d64f98bb949f5c5e2f1ffe557e8eb6f969a08ca1b041a3317d6e85151d60c"
+hash = "97bf217bf122049f65b9c3e3a0087a4aa449049c8f7fd1bd311bb72dec062201"
 metafile = true
 
 [[files]]
@@ -1176,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap.pw.toml"
-hash = "07e14f4e2f650a771616426dcea0531400026fda161384c138daee9da3b594bb"
+hash = "d3668a141438552a48c73d4423466cfe4dda98d577c577bd1c72f151014722b7"
 metafile = true
 
 [[files]]
