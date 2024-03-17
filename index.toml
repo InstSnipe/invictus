@@ -1081,6 +1081,11 @@ hash = "fdf9b451eb38d047f521407718e95dd3686f771804e867168655da2078406aa4"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs-forge.pw.toml"
+hash = "14ac0aeb23014b75e681b20f472cc38ba02e6b01577b9ca7d2d3126b6d1e0414"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "afbcf427905cb9b534d9339e3c34350008b361b21c106fd6464ad10ed18f11d3"
 metafile = true
