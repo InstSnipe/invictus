@@ -887,6 +887,11 @@ hash = "cf69c1eca748c52995c85ce1b59e01ae0482d35f2ee9754be027254c17037dfc"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-powered-revived.pw.toml"
+hash = "ba93023b21a97cef36c1be75a350187c1cb22cd32660f4e33c8c7abbf914ea98"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "ca75006168c4efa90895f7382beee790fc74d64d23b797787b98073e7f054df1"
 metafile = true

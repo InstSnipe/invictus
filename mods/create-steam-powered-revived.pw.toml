@@ -1,0 +1,13 @@
+name = "Create: Steam Powered Revived"
+filename = "steampowered-1.18.2-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6c3009e5147fec87489cd011324815b54465a90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4755541
+project-id = 913878
