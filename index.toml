@@ -778,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "97bf217bf122049f65b9c3e3a0087a4aa449049c8f7fd1bd311bb72dec062201"
+hash = "a7516c08b4af399fbc7a8cee7cf90fd3df9ecf9ef3602ed7b797500790af6753"
 metafile = true
 
 [[files]]
@@ -1176,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap.pw.toml"
-hash = "d3668a141438552a48c73d4423466cfe4dda98d577c577bd1c72f151014722b7"
+hash = "07e14f4e2f650a771616426dcea0531400026fda161384c138daee9da3b594bb"
 metafile = true
 
 [[files]]
