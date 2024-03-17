@@ -1,6 +1,6 @@
 name = "Game Menu Remove GFARB"
 filename = "GameMenuRemoveGFARB-1.18-Forge-1.4.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

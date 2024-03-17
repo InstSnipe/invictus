@@ -1,6 +1,7 @@
 name = "Distant Horizons: A Level of Detail mod"
 filename = "DistantHorizons-2.0.1-a-1.18.2.jar"
-side = "both"
+side = "client"
+optional="true"
 
 [download]
 hash-format = "sha1"

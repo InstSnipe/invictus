@@ -783,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "c7fea242250b914c9f41782197a47d431972e5e49728c26980b1d66d2b4c38e2"
+hash = "966f3112c2ad410107bb44fe1b72a17d5e27d4051dc70556f151de87059c36a9"
 metafile = true
 
 [[files]]
@@ -1116,12 +1116,12 @@ metafile = true
 
 [[files]]
 file = "mods/game-menu-remove-gfarb.pw.toml"
-hash = "35c84aab2aa9144d73c1cea25fa4bce2ce67269a5651e1f39b658bbd348efda5"
+hash = "7cff548bb97b03d486297238b81e6da7dd3fbedbf625991b9309b0ec8f800f4d"
 metafile = true
 
 [[files]]
 file = "mods/gamemenumodoption.pw.toml"
-hash = "5fc5e2b2572dcd8073a24cf0a7c5cd089bff12666693e16cd243648f8cce9da3"
+hash = "5881598c4b37e57dc692d381bbf1d41e9195b3ad3869caceadfc3135317ce4bb"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap.pw.toml"
-hash = "d3668a141438552a48c73d4423466cfe4dda98d577c577bd1c72f151014722b7"
+hash = "2f19db4bc8d80e334195208737fb181a7b2d30dfdf563db19d76498d02c8c2e0"
 metafile = true
 
 [[files]]
@@ -1309,11 +1309,6 @@ hash = "4a78e03e9ee6e9b198403e90355f2ef3e54672a3815f6fd058ec4b7640f08c40"
 metafile = true
 
 [[files]]
-file = "mods/seasonhud.pw.toml"
-hash = "ed3773f19aa1c675b5a03354879cb8d940c00f186fbb298180b2e56dca36a3e5"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "72a5a08bf5d6110346245aafe2d42c0ffdd550b424eaee59c1a350fded7a2879"
 metafile = true
@@ -1388,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
-hash = "e113c21664ee67b1067d502ca68a59ca3593d71f530eb206e83d2ee2d0439b52"
+hash = "228973db8428214eece169681d076744ba23433324a1e4163dbccc00934fbaf2"
 metafile = true
 
 [[files]]
