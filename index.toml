@@ -812,6 +812,11 @@ hash = "d2aa0b81ec95957f455a7bcba4745b89be6981872ed77fe7a85f07ed07eed810"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "b6962d58fe6e947ce980bbfe096d870afa3b5ee8741e292f9c316ecca368562e"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "76dac18766bebb77dc8fee7c4ed38dceb587b7418f6146a38e77c67a541752c2"
 metafile = true
@@ -854,6 +859,11 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "72ed55105b929ad3912d7df50ac39b91743c8756702b12dd541c7af942ce2a1f"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "fb786f26f5908ca96f7707e9bb8eb5929f8d78f31b14e959041aa4c42c8d8c3d"
 metafile = true
 
 [[files]]
@@ -1008,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "197556d103153563bd7070de881e185753ab21e152cf4b498dd635982ae9babf"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "640ffe55f752f9ad3f57c2e05cfde8ff5152350595a5bf7b16c27ab67bbad606"
 metafile = true
 
 [[files]]
