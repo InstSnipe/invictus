@@ -961,6 +961,11 @@ hash = "2bfebdc8cbccbf45a166d28f7302a238659c7c76182b5fe9160125d0ec48eba9"
 metafile = true
 
 [[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "97625e8d9efb25abb5e32ddd744981636dd248ecf4bdfce5d3a7f42dd9ccc0e2"
+metafile = true
+
+[[files]]
 file = "mods/dsbg.pw.toml"
 hash = "64b5b70c8499dc31b2cc0ac9f52425866d971ac55be221eac09c69c1fe167281"
 metafile = true
