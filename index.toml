@@ -831,6 +831,11 @@ hash = "724856d978749dffd4ca099c75483ec3c7c03749f9b6811f15c4e2e51e3fa388"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
+metafile = true
+
+[[files]]
 file = "mods/connectedness.pw.toml"
 hash = "7a8a1ea83d534852642fc5427b9594d439df97e891363cdb04baaf6a6ee6e901"
 metafile = true
