@@ -1,6 +1,6 @@
 name = "Invictus"
 author = "InstaSnipe frfr"
-version = "2.0-a.4"
+version = "2.0-a.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "09accec8914eb1fca9b4b656e5cb007b5c1854dbe677aacd48ff8d575309fb06"
 
 [versions]
-forge = "40.2.17"
+forge = "40.2.18"
 minecraft = "1.18.2"
 
 [options]
