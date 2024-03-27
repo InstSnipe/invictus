@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "a7f8f8b3c29c595031b356f8e519c09d42fa3e17548093db1e2207ba3929b91e"
+hash = "4d98d6f5206bf44d309e09771d306b257da0a2bdf0871dd20b6ee60d4a826a4b"
 metafile = true
 
 [[files]]
@@ -958,6 +958,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "ad0d85352cb50cb98fe707dac16b8a8d7f0e99de1e29eed91ed378b1c827f0f3"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "85a8fac24585e339c3666b54353008dea3b9aec0b49374f5c55d49ab7ad3c202"
 metafile = true
 
 [[files]]
@@ -1229,6 +1234,11 @@ hash = "239d21aae246b19cf32bbcfc5ab275c2caaf2e35a0d71710d8ecc68650d32cac"
 metafile = true
 
 [[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "6908f63e5517439da0580066a21c68cb81e52ad5512afe45188bf1f5f8493e9f"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "50dc2f65f8b8d0249187c57e28608fd25555ba5317fb8ec4e440fd0428ba254a"
 metafile = true
@@ -1356,6 +1366,11 @@ metafile = true
 [[files]]
 file = "mods/steel-armor-blocks.pw.toml"
 hash = "ee03e9bed710ce8fb782edc5a4fd5b879ffd969bb77fbdef72993221666dbdef"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "ad6b68abc410563776c69194968d8a9d2895ccdf6dfbe690042c8fddad3baad2"
 metafile = true
 
 [[files]]
