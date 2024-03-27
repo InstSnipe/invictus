@@ -1254,6 +1254,11 @@ hash = "69a8280b159bc955f6b1e1811de1f9c16372b6dc5cbd5d7c69d55e9c1e41d06f"
 metafile = true
 
 [[files]]
+file = "mods/no-poles.pw.toml"
+hash = "101177ab039d6f3acf757bca9cdf7961f69e581bea9f133f164c6e5ed545699c"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "2f607f9493c8a1582337d89ad630bc8a9ebec904e9e18012c12db6d2ff55bda7"
 metafile = true
