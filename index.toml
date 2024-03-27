@@ -951,6 +951,11 @@ hash = "33f8b6609aaba60fa9d55b7d7e2e6956141e90f770577de92f3917261a3c8f38"
 metafile = true
 
 [[files]]
+file = "mods/create-wooderwheels.pw.toml"
+hash = "caa02ea1117c55b1f730c89b1b5a37af0b5750d2bf72540f7445e6ae874088e1"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "ffa9e3c2a960f0efc1ade488f4797721ada05c68ce1a0ce71199c4ee18a21a83"
 metafile = true
@@ -1306,6 +1311,11 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "56abe45b58b09fc0ee6389ea383b3d8464558cc878503940b35acc8cc4f81a7b"
+metafile = true
+
+[[files]]
+file = "mods/potato-cannon-ammo-counter.pw.toml"
+hash = "2757c36deed2fc6f51f0055ef856f0df5c0c05941c91acf6ba51a7e0ec9c7039"
 metafile = true
 
 [[files]]

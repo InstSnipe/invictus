@@ -1,0 +1,13 @@
+name = "Potato Cannon Ammo Counter"
+filename = "potato_canon_ammo_counter_1.18.2_forge_1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8449d24a7937cfbd4a578b6f76ff3e41243a5b3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4896925
+project-id = 941925
