@@ -1392,6 +1392,11 @@ file = "mods/trackwork-1.18.2-0.0.1h1-alpha.jar"
 hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "e4db6e94f33dbb0641984c2ad53428be142cf29bd67cb16f248a6c18305bbdfd"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "b9179ce3154a8f33b5155dbdfdd120d306aded43e19ccf0e978593d5d3b84dd5"
 metafile = true
