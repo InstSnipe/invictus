@@ -1,0 +1,13 @@
+name = "Create: Electric Stonks"
+filename = "create-electric-stonks-1.18.2-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zQkTIKk3/versions/XXkIbRR5/create-electric-stonks-1.18.2-1.2.5.jar"
+hash-format = "sha1"
+hash = "56a127d7dece2263893b1af49a61b82d267009a8"
+
+[update]
+[update.modrinth]
+mod-id = "zQkTIKk3"
+version = "XXkIbRR5"
