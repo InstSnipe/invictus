@@ -1,0 +1,13 @@
+name = "Clear Despawn [Forge]"
+filename = "ClearDespawn-forge-1.18.2-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4749b460585dc18d4f2a828f5e45d409bfc131a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3682010
+project-id = 308656

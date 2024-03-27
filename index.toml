@@ -811,6 +811,11 @@ hash = "404a56ab4860bad92a88ec99dfaeb7e3f130eb0c9a09c25b2eb2311885468e97"
 metafile = true
 
 [[files]]
+file = "mods/clear-despawn.pw.toml"
+hash = "a61928949293c7f3f091734952faa7356431b11a137deeae0e9f8199ad148be3"
+metafile = true
+
+[[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "de65c3aa66caaca5435742457fc017d9d2714f4afb4e5fb0033b680d4e60f207"
 metafile = true
@@ -1351,6 +1356,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "4a78e03e9ee6e9b198403e90355f2ef3e54672a3815f6fd058ec4b7640f08c40"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen-forge.pw.toml"
+hash = "3988ee00f2698b470f1d9cb07b5965aef80172689bfd75ce31c4a6c66ec80ed6"
 metafile = true
 
 [[files]]
