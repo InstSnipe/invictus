@@ -1140,16 +1140,6 @@ hash = "e93eb7cecf30996453526c1469be40475ac70c29d16f130b4524d63198cb5576"
 metafile = true
 
 [[files]]
-file = "mods/ftb-industrial-contraptions-forge.pw.toml"
-hash = "8a6db7821b4089fd67e21aa6bea7acc34b427b4f918a75269b4e9213791f3be1"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
-metafile = true
-
-[[files]]
 file = "mods/game-menu-remove-gfarb.pw.toml"
 hash = "7cff548bb97b03d486297238b81e6da7dd3fbedbf625991b9309b0ec8f800f4d"
 metafile = true
@@ -1286,11 +1276,6 @@ metafile = true
 [[files]]
 file = "mods/no-poles.pw.toml"
 hash = "101177ab039d6f3acf757bca9cdf7961f69e581bea9f133f164c6e5ed545699c"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-contraptions.pw.toml"
-hash = "ec77740332083d0550e1fe9bf97d439edd8a25073d7d2e169c6140b28a391914"
 metafile = true
 
 [[files]]
@@ -1478,11 +1463,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "0dbe9d983c8c7d502f3ed73813d425789a3a80ba403a80ad81b1b902e1af5ea4"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "1a85d07571b0a6f54ec542b0a8bf7d11732a55829937da7c01f7b5756e5b25c6"
 metafile = true
 
 [[files]]
