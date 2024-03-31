@@ -1466,6 +1466,11 @@ hash = "0dbe9d983c8c7d502f3ed73813d425789a3a80ba403a80ad81b1b902e1af5ea4"
 metafile = true
 
 [[files]]
+file = "mods/zerocore.pw.toml"
+hash = "1a85d07571b0a6f54ec542b0a8bf7d11732a55829937da7c01f7b5756e5b25c6"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "5ff8bbe2165aa02c9e6641ef7b24881f55e16f627bae34b67ac152af17092d23"
 
