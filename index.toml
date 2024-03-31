@@ -1324,6 +1324,11 @@ hash = "77d4e8b016a472641d05d12ca1641d7e4d8fddc6f932de68effa745f82a86da3"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
+metafile = true
+
+[[files]]
 file = "mods/random-bone-meal-flowers.pw.toml"
 hash = "ac327e162e38fdc3091354d877b575fe95024e8d5db942543d9efeec151fb7d1"
 metafile = true
