@@ -1,4 +1,5 @@
 ServerEvents.recipes(event => {
+  event.remove({ mod: 'bigreactors' })
 	event.recipes.createMixing('bigreactors:verderium,2000', [
         '#forge:ingots/uranium',
         '#forge:ingots/uranium',
