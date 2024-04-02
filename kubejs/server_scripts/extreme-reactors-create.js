@@ -38,4 +38,30 @@ ServerEvents.recipes(event => {
     A: '#forge:concrete',
     B: '#forge:ingots/steel'
   })
+  //Recipes that need/can be added
+  
+  //Adds recipe for fuel rod
+ 
+
+  //Adds recipe for control rod
+  
+
+  //Adds recipe for solid access port
+
+
+  //Adds recipe for fuel injection port
+
+
+  //Adds recipe for redstone port
+
+
+  //Adds recipe for computer port
+
+
+  //Adds recipe for active fluid port
+
+
+  //Adds recipe for passive fluid port
+
+
 })
