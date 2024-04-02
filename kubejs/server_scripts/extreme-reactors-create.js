@@ -30,7 +30,7 @@ ServerEvents.recipes(event => {
   })
 
   //Adds recipe for reactor casing
-  event.shaped('bigreactors:reinforced_reactorcontroller', [
+  event.shaped('bigreactors:reinforced_reactorcasing', [
     'AAA',
     'ABA',
     'AAA'
@@ -44,7 +44,18 @@ ServerEvents.recipes(event => {
  
 
   //Adds recipe for control rod
-  
+  event.shaped('bigreactors:reinforced_reactorcontrolrod', [
+    'ABA',
+    'CDC',
+    'AEA'
+  ], {
+    A: 'bigreactors:reinforced_reactorcasing',
+    B: 'create:mechanical_piston',
+    C: '#forge:ingots/steel',
+    D: 'create_dd:inductive_mechanism',
+    E: 'minecraft:redstone'
+  })
+
 
   //Adds recipe for solid access port
 
