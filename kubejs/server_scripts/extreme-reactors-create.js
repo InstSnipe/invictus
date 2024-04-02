@@ -30,7 +30,7 @@ ServerEvents.recipes(event => {
   })
 
   //Adds recipe for reactor casing
-  event.shaped('bigreactors:reinforced_reactorcasing', [
+  event.shaped('bigreactors:reinforced_reactorcasing, 4', [
     'AAA',
     'ABA',
     'AAA'
