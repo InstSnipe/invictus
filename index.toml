@@ -1299,6 +1299,11 @@ hash = "463232f82ef7c7e4294298832ea41af897f42f04490abf7279105bd8074260e5"
 metafile = true
 
 [[files]]
+file = "mods/ore-tweaker.pw.toml"
+hash = "48cd2b4dd34f435f1d256bf7495f5025cb0e6137295540dc496d7b5ace6e1f6d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0b386467fb554a858a523a9674af9a6c76bc1ada934451faa6e57d817f32d9e0"
 metafile = true
