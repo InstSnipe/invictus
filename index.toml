@@ -1100,11 +1100,6 @@ hash = "640ffe55f752f9ad3f57c2e05cfde8ff5152350595a5bf7b16c27ab67bbad606"
 metafile = true
 
 [[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "22981fee3c51d4ea35c26377331fe4f87d27c008ca60afe99e72a145d4fbc2d1"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "2d4ff7203bec8d382fad2afa6ffc135a41a940e67e49f7feedd67674d2153fa4"
 metafile = true
@@ -1468,11 +1463,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "0dbe9d983c8c7d502f3ed73813d425789a3a80ba403a80ad81b1b902e1af5ea4"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "1a85d07571b0a6f54ec542b0a8bf7d11732a55829937da7c01f7b5756e5b25c6"
 metafile = true
 
 [[files]]
