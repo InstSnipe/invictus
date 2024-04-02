@@ -25,7 +25,7 @@ ServerEvents.recipes(event => {
         A: 'bigreactors:reinforced_reactorcasing',
         B: 'create_dd:calculation_mechanism',
         C: 'create_dd:infernal_mechanism',
-        D: 'minecraft:diamond_block',
+        D: 'kubejs:screen',
         E: 'minecraft:redstone'
   })
 
