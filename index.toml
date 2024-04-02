@@ -1001,6 +1001,11 @@ hash = "4f93f0ae0ad802aec370b6d24aab7666033857644caaa060ffd116d41b41c3d2"
 metafile = true
 
 [[files]]
+file = "mods/curtain.pw.toml"
+hash = "b899f29bc6fbd56a9244a9dc06498aa01fb4018e86cfff5abe690e8ac8f978a9"
+metafile = true
+
+[[files]]
 file = "mods/daves-building-extended.pw.toml"
 hash = "2535cabe306496e65807eaea648e82f063261aa265cb80634a6206dd8aabbc8f"
 metafile = true
