@@ -11,4 +11,16 @@ ServerEvents.recipes(event => {
         'bigreactors:cyanite_ingot',
         Fluid.of('minecraft:water', 1000)
       ]).heated()
+
+      event.shaped('bigreactors:reinforced_reactorcontroller', [
+        'ABA',
+        'CDC',
+        'AEA'
+      ], {
+        A: 'bigreactors:reinforced_reactorcasing',
+        B: 'create_dd:calculation_mechanism',
+        C: 'create_dd:infernal_mechanism',
+        D: 'minecraft:diamond_block',
+        E: 'minecraft:redstone'
+      })
 })
