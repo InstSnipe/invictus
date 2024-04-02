@@ -787,6 +787,11 @@ hash = "966f3112c2ad410107bb44fe1b72a17d5e27d4051dc70556f151de87059c36a9"
 metafile = true
 
 [[files]]
+file = "mods/big-contraptions.pw.toml"
+hash = "649ff01c5ffb73efefb8b8f516504ce6efd9dada005a74d18a946529ca2b33db"
+metafile = true
+
+[[files]]
 file = "mods/bulletfix1.0.jar"
 hash = "67ec68369e16f9cbd8535e74d1b8428534cc6af6c8ef38cbf30b35505e5b29e5"
 
@@ -903,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "df59e1e3629c7cd58d013c3d3a9421069a6bb69ce618e8f9e63c9a71ac66be8a"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "4ebe6aa94e94bc360e7297033e220cc410d78c13c444f16c05e5ab4f1153bbda"
 metafile = true
 
 [[files]]
@@ -1207,6 +1217,11 @@ metafile = true
 [[files]]
 file = "mods/kontraption-1182-0.0.2-bf37e83824.jar"
 hash = "7effc0338b184caa6d100e6eefc21afb860fb61cac9e21ce1c84785eff9fe1ee"
+
+[[files]]
+file = "mods/kontraption.pw.toml"
+hash = "b3bfa778619a689d5ea21d232ef66f1d690f19abf9de309e0cadd84b1250d683"
+metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
