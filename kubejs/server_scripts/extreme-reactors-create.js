@@ -1,4 +1,4 @@
-ServerEvents.recipes(event => {
+onEvent('recipes', event => {
   //Removes all default recipes for extreme reactors
   event.remove({ mod: 'bigreactors' })
   
