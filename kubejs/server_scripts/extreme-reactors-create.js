@@ -78,7 +78,17 @@ ServerEvents.recipes(event => {
   })
 
   //Adds recipe for fuel injection port
-  
+  event.shaped('bigreactors:reinforced_reactorfluidaccessport', [
+    'ABA',
+    'CDC',
+    'AEA'
+  ], {
+    A: 'bigreactors:reinforced_reactorcasing',
+    B: 'create_dd:inductive_mechanism',
+    C: '#forge:ingots/steel',
+    D: 'create:mechanical_pump',
+    E: 'minecraft:redstone'
+  })
 
   //Adds recipe for redstone port
 
