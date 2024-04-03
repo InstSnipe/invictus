@@ -65,10 +65,20 @@ ServerEvents.recipes(event => {
   //Recipes that need/can be added
 
   //Adds recipe for solid access port
-
+  event.shaped('bigreactors:reinforced_reactorsolidaccessport', [
+    'ABA',
+    'CDC',
+    'AEA'
+  ], {
+    A: 'bigreactors:reinforced_reactorcasing',
+    B: 'create_dd:inductive_mechanism',
+    C: '#forge:ingots/steel',
+    D: 'create:fluid_pipe',
+    E: 'minecraft:redstone'
+  })
 
   //Adds recipe for fuel injection port
-
+  
 
   //Adds recipe for redstone port
 
