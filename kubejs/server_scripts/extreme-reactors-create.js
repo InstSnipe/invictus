@@ -3,7 +3,7 @@ onEvent('recipes', event => {
   event.remove({ mod: 'bigreactors' })
   
   //Adds custom recipe for verderium
-	event.recipes.createMixing('bigreactors:verderium,2000', [
+	event.recipes.createMixing('bigreactors:verderium', 2000 [
         '#forge:ingots/uranium',
         '#forge:ingots/uranium',
         'bigreactors:blutonium_ingot'
@@ -30,7 +30,7 @@ onEvent('recipes', event => {
   })
 
   //Adds recipe for reactor casing
-  event.shaped('bigreactors:reinforced_reactorcasing, 4', [
+  event.shaped('bigreactors:reinforced_reactorcasing', 4 [
     'AAA',
     'ABA',
     'AAA'
