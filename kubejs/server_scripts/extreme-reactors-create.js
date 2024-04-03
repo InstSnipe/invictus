@@ -38,10 +38,16 @@ ServerEvents.recipes(event => {
     A: '#forge:concrete',
     B: '#forge:ingots/steel'
   })
-  //Recipes that need/can be added
   
   //Adds recipe for fuel rod
- 
+  event.shaped('bigreactors:reinforced_reactorfuelrod, ', [
+    ' A ',
+    'ABA',
+    ' A '
+  ], {
+    A: 'bigreactors:reinforced_reactorcasing',
+    B: '#forge:ingots/uranium'
+  })
 
   //Adds recipe for control rod
   event.shaped('bigreactors:reinforced_reactorcontrolrod', [
@@ -56,6 +62,7 @@ ServerEvents.recipes(event => {
     E: 'minecraft:redstone'
   })
 
+  //Recipes that need/can be added
 
   //Adds recipe for solid access port
 
