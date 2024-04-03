@@ -97,7 +97,17 @@ ServerEvents.recipes(event => {
 
 
   //Adds recipe for active fluid port
-
+  event.shaped('bigreactors:reinforced_reactorfluidport_forge_active', [
+    'ABA',
+    'CDC',
+    'AEA'
+  ], {
+    A: 'bigreactors:reinforced_reactorcasing',
+    B: 'create_dd:inductive_mechanism',
+    C: '#forge:ingots/steel',
+    D: 'create:mechanical_pump',
+    E: 'create:fluid_tank'
+  })
 
   //Adds recipe for passive fluid port
 
