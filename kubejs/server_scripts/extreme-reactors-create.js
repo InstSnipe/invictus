@@ -8,6 +8,7 @@ onEvent('recipes', event => {
 
   let fabrictag = '#forge:'
 
+
   //Removes all default recipes for extreme reactors
   event.remove({ mod: bigreactors })
   
@@ -27,8 +28,7 @@ onEvent('recipes', event => {
   
   //Add shaped recipe for reactor controller
   event.shaped(
-    Item.of(kontraption + 'ion_thruster', 1)
-    bigreactorsreinforced + 'reactorcontroller', [
+    Item.of(bigreactorsreinforced + 'reactorcontroller', 1), [
         'ABA',
         'CDC',
         'AEA'
