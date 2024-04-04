@@ -120,7 +120,7 @@ onEvent('recipes', event => {
   //Add shaped recipe for fuel injection port
   encasedTopBottom(
     Item.of(bigreactorsReactor + 'fluidaccessport', 1),
-    inductiveMechanism,
+    infernalMechanism,
     redstone,
     fluidPipe,
     fluidTank
