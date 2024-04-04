@@ -1,93 +1,103 @@
 onEvent('recipes', event => {
+  let minecraft = 'minecraft:'
+  let kubejs = 'kubejs:'
+  let createdd = 'create_dd:'
+  let mekanism = 'mekanism:'
+  let bigreactors = 'bigreactors:'
+  let bigreactorsreinforced = 'bigreactors:reinforced_'
+
+  let fabrictag = '#forge:'
+
   //Removes all default recipes for extreme reactors
-  event.remove({ mod: 'bigreactors' })
+  event.remove({ mod: bigreactors })
   
-  //Adds custom recipe for verderium
-	event.recipes.createMixing('bigreactors:verderium', 2000 [
-        '#forge:ingots/uranium',
-        '#forge:ingots/uranium',
-        'bigreactors:blutonium_ingot'
+    //Add mixing recipe for verderium
+  event.recipes.createMixing(bigreactors + 'verderium', 2000 [
+        fabrictag + 'ingots/uranium',
+        fabrictag + 'ingots/uranium',
+        bigreactors + 'blutonium_ingot'
   ]).superheated()
   
-  //Adds custom recipe for blutonium
-  event.recipes.createMixing('bigreactors:butonium,', [
-        'bigreactors:cyanite_ingot',
-        'bigreactors:cyanite_ingot',
-        Fluid.of('minecraft:water', 1000)
+  //Add mixing recipe for blutonium
+  event.recipes.createMixing(bigreactors + 'butonium', [
+        bigreactors + 'cyanite_ingot',
+        bigreactors + 'cyanite_ingot',
+        Fluid.of(minecraft + 'water', 1000)
   ]).heated()
   
-  //Adds custom recipe for reactor controller
-  event.shaped('bigreactors:reinforced_reactorcontroller', [
+  //Add shaped recipe for reactor controller
+  event.shaped(
+    Item.of(kontraption + 'ion_thruster', 1)
+    bigreactorsreinforced + 'reactorcontroller', [
         'ABA',
         'CDC',
         'AEA'
       ], {
-        A: 'bigreactors:reinforced_reactorcasing',
-        B: 'create_dd:calculation_mechanism',
-        C: 'create_dd:infernal_mechanism',
-        D: 'kubejs:screen',
-        E: 'minecraft:redstone'
+        A: bigreactorsreinforced + 'reactorcasing',
+        B: createdd + 'calculation_mechanism',
+        C: createdd + 'infernal_mechanism',
+        D: kubejs + 'screen',
+        E: minecraft + 'redstone'
   })
 
-  //Adds recipe for reactor casing
-  event.shaped('bigreactors:reinforced_reactorcasing', 4 [
-    'AAA',
-    'ABA',
-    'AAA'
-  ], {
-    A: '#forge:concrete',
-    B: '#forge:ingots/steel'
-  })
+  //Add shapeless recipe for reactor casing
+  event.shapeless(
+  Item.of(bigreactorsreinforced + 'reactorcasing', 6), [
+    '8x ' fabrictag + 'concrete',
+    fabrictag + 'ingots/steel'
+  ])
   
-  //Adds recipe for fuel rod
-  event.shaped('bigreactors:reinforced_reactorfuelrod, ', [
+  //Add shaped recipe for fuel rod
+  event.shaped(
+    Item.of(bigreactorsreinforced + 'reactorfuelrod', 4), [
     ' A ',
-    'ABA',
+    'A A',
     ' A '
   ], {
-    A: 'bigreactors:reinforced_reactorcasing',
-    B: '#forge:ingots/uranium'
+    A: bigreactorsreinforced + 'reactorcasing'
   })
 
   //Adds recipe for control rod
-  event.shaped('bigreactors:reinforced_reactorcontrolrod', [
+  event.shaped(
+    Item.of(bigreactorsreinforced + 'reactorcontrolrod', 1), [
     'ABA',
     'CDC',
     'AEA'
   ], {
-    A: 'bigreactors:reinforced_reactorcasing',
-    B: 'create:mechanical_piston',
-    C: '#forge:ingots/steel',
-    D: 'create_dd:inductive_mechanism',
-    E: 'minecraft:redstone'
+    A: bigreactorsreinforced + 'reactorcasing',
+    B: minecraft + 'piston',
+    C: kubejs + 'control_rod',
+    D: createdd + 'inductive_mechanism',
+    E: minecraft + 'redstone'
   })
 
   //Recipes that need/can be added
 
-  //Adds recipe for solid access port
-  event.shaped('bigreactors:reinforced_reactorsolidaccessport', [
+  //Add shaped recipe for solid access port
+  event.shaped(
+    Item.of(bigreactorsreinforced + 'reactorsolidaccessport', 1), [
     'ABA',
     'CDC',
-    'AEA'
+    'ACA'
   ], {
-    A: 'bigreactors:reinforced_reactorcasing',
-    B: 'create_dd:inductive_mechanism',
-    C: '#forge:ingots/steel',
-    D: 'create:fluid_pipe',
-    E: 'minecraft:redstone'
+    A: bigreactorsreinforced + 'reactorcasing',
+    B: createdd + 'inductive_mechanism',
+    C: minecraft + 'redstone',
+    D: create + 'fluid_pipe'
   })
 
-  //Adds recipe for fuel injection port
-  event.shaped('bigreactors:reinforced_reactorfluidaccessport', [
+  //Add shaped recipe for fuel injection port
+  event.shaped(
+    Item.of(bigreactorsreinforced + 'reactorfluidaccessport', 1), [
     'ABA',
     'CDC',
     'AEA'
   ], {
-    A: 'bigreactors:reinforced_reactorcasing',
-    B: 'create_dd:inductive_mechanism',
-    C: '#forge:ingots/steel',
-    D: 'create:mechanical_pump',
-    E: 'minecraft:redstone'
+    A: bigreactorsreinforced + 'reactorcasing',
+    B: createdd + 'inductive_mechanism',
+    C: minecraft + 'redstone',
+    D: create + 'fluid_pipe',
+    E: create + 'fluid_tank'
   })
 
   //Adds recipe for redstone port
@@ -96,30 +106,32 @@ onEvent('recipes', event => {
   //Adds recipe for computer port
 
 
-  //Adds recipe for active fluid port
-  event.shaped('bigreactors:reinforced_reactorfluidport_forge_active', [
+  //Add shaped recipe for active fluid port
+  event.shaped(
+    Item.of(bigreactorsreinforced + 'reactorfluidport_forge_active', 1), [
     'ABA',
     'CDC',
     'AEA'
   ], {
-    A: 'bigreactors:reinforced_reactorcasing',
-    B: 'create_dd:inductive_mechanism',
-    C: '#forge:ingots/steel',
-    D: 'create:mechanical_pump',
-    E: 'create:fluid_tank'
+    A: bigreactorsreinforced + 'reactorcasing',
+    B: createdd + 'inductive_mechanism',
+    C: minecraft + 'redstone',
+    D: create + 'mechanical_pump',
+    E: create + 'fluid_tank'
   })
 
   //Adds recipe for passive fluid port
-  event.shaped('bigreactors:reinforced_reactorfluidport_forge_passive', [
+  event.shaped(
+    Item.of(bigreactorsreinforced + 'reactorfluidport_forge_passive', 1), [
     'ABA',
     'CDC',
     'AEA'
   ], {
-    A: 'bigreactors:reinforced_reactorcasing',
-    B: 'create_dd:inductive_mechanism',
-    C: '#forge:ingots/steel',
-    D: 'create:fluid_pipe',
-    E: 'create:fluid_tank'
+    A: bigreactorsreinforced + 'reactorcasing',
+    B: createdd + 'inductive_mechanism',
+    C: minecraft + 'redstone',
+    D: create + 'fluid_pipe',
+    E: create + 'fluid_tank'
   })
 
 })
