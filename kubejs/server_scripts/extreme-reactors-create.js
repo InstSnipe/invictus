@@ -4,7 +4,7 @@ onEvent('recipes', event => {
   let createdd = 'create_dd:'
   let mekanism = 'mekanism:'
   let bigreactors = 'bigreactors:'
-  let bigreactorsreinforced = 'bigreactors:reinforced_'
+  let bigreactorsReactor = 'bigreactors:reinforced_reactor'
 
   let fabrictag = '#forge:'
 
@@ -14,7 +14,7 @@ onEvent('recipes', event => {
       'CDC',
       'AEA'
     ], {
-      A: bigreactorsreinforced + 'reactorcasing',
+      A: bigreactorsReactor + 'casing',
       B: topInput,
       C: sideInput,
       D: middleInput,
@@ -28,7 +28,7 @@ onEvent('recipes', event => {
       'CDC',
       'ACA'
     ], {
-      A: bigreactorsreinforced + 'reactorcasing',
+      A: bigreactorsReactor + 'casing',
       B: topInput,
       C: sideBottomInput,
       D: middleInput
@@ -54,7 +54,7 @@ onEvent('recipes', event => {
   
   //Add shaped recipe for reactor controller
    encasedTopBottom(
-    Item.of(bigreactorsreinforced + 'reactorcontroller', 1),
+    Item.of(bigreactorsReactor + 'controller', 1),
     createdd + 'calculation_mechanism',
     createdd + 'infernal_mechanism',
     kubejs + 'screen',
@@ -63,24 +63,24 @@ onEvent('recipes', event => {
 
   //Add shapeless recipe for reactor casing
   event.shapeless(
-  Item.of(bigreactorsreinforced + 'reactorcasing', 6), [
+  Item.of(bigreactorsReactor + 'casing', 6), [
     '8x ' fabrictag + 'concrete',
     fabrictag + 'ingots/steel'
   ])
   
   //Add shaped recipe for fuel rod
   event.shaped(
-    Item.of(bigreactorsreinforced + 'reactorfuelrod', 4), [
+    Item.of(bigreactorsReactor + 'fuelrod', 4), [
     ' A ',
     'A A',
     ' A '
   ], {
-    A: bigreactorsreinforced + 'reactorcasing'
+    A: bigreactorsReactor + 'casing'
   })
 
   //Adds recipe for control rod
   encasedTopBottom(
-    Item.of(bigreactorsreinforced + 'reactorcontrolrod', 1),
+    Item.of(bigreactorsReactor + 'controlrod', 1),
     minecraft + 'piston',
     kubejs + 'control_rod',
     createdd + 'inductive_mechanism',
@@ -91,7 +91,7 @@ onEvent('recipes', event => {
 
   //Add shaped recipe for solid access port
   encasedTop(
-    Item.of(bigreactorsreinforced + 'reactorsolidaccessport', 1),
+    Item.of(bigreactorsReactor + 'solidaccessport', 1),
     createdd + 'inductive_mechanism',
     minecraft + 'redstone',
     create + 'fluid_pipe'
@@ -99,7 +99,7 @@ onEvent('recipes', event => {
 
   //Add shaped recipe for fuel injection port
   encasedTopBottom(
-    Item.of(bigreactorsreinforced + 'reactorfluidaccessport', 1),
+    Item.of(bigreactorsReactor + 'fluidaccessport', 1),
     createdd + 'inductive_mechanism',
     minecraft + 'redstone',
     create + 'fluid_pipe',
@@ -114,7 +114,7 @@ onEvent('recipes', event => {
 
   //Add shaped recipe for active fluid port
   encasedTopBottom(
-    Item.of(bigreactorsreinforced + 'reactorfluidport_forge_active', 1),
+    Item.of(bigreactorsReactor + 'fluidport_forge_active', 1),
     createdd + 'inductive_mechanism',
     minecraft + 'redstone',
     create + 'mechanical_pump',
@@ -123,7 +123,7 @@ onEvent('recipes', event => {
 
   //Adds recipe for passive fluid port
   encasedTopBottom(
-    Item.of(bigreactorsreinforced + 'reactorfluidport_forge_passive', 1),
+    Item.of(bigreactorsReactor + 'fluidport_forge_passive', 1),
     createdd + 'inductive_mechanism',
     minecraft + 'redstone',
     create + create + 'fluid_pipe',
