@@ -8,7 +8,7 @@ onEvent('recipes', event => {
   let bigreactorsReactor = 'bigreactors:reinforced_reactor'
 
   // Namespace tag variable
-  let fabrictag = '#forge:'
+  let fabricTag = '#forge:'
 
   // Helper function
   function encasedTopBottom(output, topInput, SideInput, middleInput, BottomInput) {
@@ -44,8 +44,8 @@ onEvent('recipes', event => {
   
     //Add mixing recipe for verderium
   event.recipes.createMixing(bigreactors + 'verderium', 2000 [
-        fabrictag + 'ingots/uranium',
-        fabrictag + 'ingots/uranium',
+        fabricTag + 'ingots/uranium',
+        fabricTag + 'ingots/uranium',
         bigreactors + 'blutonium_ingot'
   ]).superheated()
   
@@ -68,8 +68,8 @@ onEvent('recipes', event => {
   //Add shapeless recipe for reactor casing
   event.shapeless(
   Item.of(bigreactorsReactor + 'casing', 6), [
-    '8x ' fabrictag + 'concrete',
-    fabrictag + 'ingots/steel'
+    '8x ' fabricTag + 'concrete',
+    fabricTag + 'ingots/steel'
   ])
   
   //Add shaped recipe for fuel rod
