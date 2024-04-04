@@ -1,4 +1,5 @@
 onEvent('recipes', event => {
+  // Namespace variable
   let minecraft = 'minecraft:'
   let kubejs = 'kubejs:'
   let createdd = 'create_dd:'
@@ -6,8 +7,10 @@ onEvent('recipes', event => {
   let bigreactors = 'bigreactors:'
   let bigreactorsReactor = 'bigreactors:reinforced_reactor'
 
+  // Namespace tag variable
   let fabrictag = '#forge:'
 
+  // Helper function
   function encasedTopBottom(output, topInput, SideInput, middleInput, BottomInput) {
     event.shaped(output, [
       'ABA',
@@ -34,6 +37,7 @@ onEvent('recipes', event => {
       D: middleInput
     })
   }
+  
 
   //Removes all default recipes for extreme reactors
   event.remove({ mod: bigreactors })
