@@ -100,7 +100,7 @@ onEvent('recipes', event => {
 
   //Adds recipe for control rod
   encasedTopBottom(
-    Item.of(bigreactorsReactor + 'controlrod', 1),
+    Item.of(bigreactorsReactor + 'controlrod', 2),
     minecraft + 'piston',
     kubejs + 'control_rod',
     inductiveMechanism,
@@ -111,7 +111,7 @@ onEvent('recipes', event => {
 
   //Add shaped recipe for solid access port
   encasedTop(
-    Item.of(bigreactorsReactor + 'solidaccessport', 1),
+    Item.of(bigreactorsReactor + 'solidaccessport', 2),
     inductiveMechanism,
     redstone,
     fluidPipe
@@ -119,7 +119,7 @@ onEvent('recipes', event => {
 
   //Add shaped recipe for fuel injection port
   encasedTopBottom(
-    Item.of(bigreactorsReactor + 'fluidaccessport', 1),
+    Item.of(bigreactorsReactor + 'fluidaccessport', 2),
     infernalMechanism,
     redstone,
     fluidPipe,
@@ -134,7 +134,7 @@ onEvent('recipes', event => {
 
   //Add shaped recipe for active fluid port
   encasedTopBottom(
-    Item.of(bigreactorsReactor + 'fluidport_forge_active', 1),
+    Item.of(bigreactorsReactor + 'fluidport_forge_active', 2),
     inductiveMechanism,
     redstone,
     mechanical_pump,
@@ -143,7 +143,7 @@ onEvent('recipes', event => {
 
   //Adds recipe for passive fluid port
   encasedTopBottom(
-    Item.of(bigreactorsReactor + 'fluidport_forge_passive', 1),
+    Item.of(bigreactorsReactor + 'fluidport_forge_passive', 2),
     inductiveMechanism,
     redstone,
     fluidPipe,
