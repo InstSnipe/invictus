@@ -1319,6 +1319,11 @@ hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "13534b7b77ab87cd1720b0a8a873202c2335360e14917b7c43dd487acd78c5a9"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0b386467fb554a858a523a9674af9a6c76bc1ada934451faa6e57d817f32d9e0"
 metafile = true
@@ -1493,6 +1498,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "0dbe9d983c8c7d502f3ed73813d425789a3a80ba403a80ad81b1b902e1af5ea4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b8a004676d00f517cd0d15e7dfbcc744dc806b3198c364735d5420255f4e525a"
 metafile = true
 
 [[files]]
