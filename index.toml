@@ -1160,6 +1160,11 @@ hash = "5881598c4b37e57dc692d381bbf1d41e9195b3ad3869caceadfc3135317ce4bb"
 metafile = true
 
 [[files]]
+file = "mods/geolosys.pw.toml"
+hash = "446b60cb46b3da94fc8b0c4d18567179783d04bf3884880131bcd32b4f95a986"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "09ac16337c201c3139a1d543e68f41e29161029ea051db155baa184fb08df59a"
 metafile = true
@@ -1306,6 +1311,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "463232f82ef7c7e4294298832ea41af897f42f04490abf7279105bd8074260e5"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
