@@ -10,7 +10,7 @@ hash = "b45735dfd5440103879de13c0d3692ebe8d8b3165e7a6f29f91f6a8175fad3ac"
 
 [[files]]
 file = "config/Mekanism/world.toml"
-hash = "3b0a9192acc8ba50325d7f16f49a9818308fb967a04d6c3b882b856a8d98756b"
+hash = "f0aef7b3fcf48a6537ef16de28014ebd010986094012d054aebc662aab1f8fcf"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -601,6 +601,18 @@ file = "config/okzoomer-client.toml"
 hash = "a8cd28dcce8968c65a7e940377476262e4fc08e48044e8b45f34c407e0e2627d"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/Custom_OregenV1.zip"
+hash = "433c2cbb5a87a2525d7007a9a69e0a200764474b62e7a8a1a62ccd7c63696d93"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
 file = "config/railways-client.toml"
 hash = "7a8828ce6749cbe3121b411092909db4f91098d43f331fc71a5ecd82429577e3"
 
@@ -753,8 +765,8 @@ file = "kubejs/server_scripts/nomekanism.js"
 hash = "beb16df218b825f7f81ca86adbecbcdfa4c76e525fc68915579a4123671ef1fd"
 
 [[files]]
-file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
-hash = "eaa0a560d8e0cff41a3706afd58421233641caa7393e11159c7c964ee64fa340"
+file = "kubejs/startup_scripts/customitems.js"
+hash = "ecfd14562123ee5fc2ef7b14420c6ed9f006d9da82d3d85b6ccc22f0f0239eac"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -769,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "b0ec455f8244b665f75a5a1d3205f63adf1b970f76867dacd73b9c04f593f98a"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
@@ -1021,10 +1038,6 @@ hash = "2535cabe306496e65807eaea648e82f063261aa265cb80634a6206dd8aabbc8f"
 metafile = true
 
 [[files]]
-file = "mods/design_decor-0.2a-1.18.2.jar"
-hash = "3c731613cb4422b999e4f9c551f38af097413dd9f055748cbadb9ae8d0b9548c"
-
-[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "3f9f4aad8c366562b8e8ffa3f4cca288aaec021086db9be6ee9dc1d1749c35e5"
 metafile = true
@@ -1220,10 +1233,6 @@ hash = "09703a6a17d155517d9a99f0ac08f3a038f4c6dcb215bf14ff6cd095dd523395"
 metafile = true
 
 [[files]]
-file = "mods/kontraption-1182-0.0.2-bf37e83824.jar"
-hash = "7effc0338b184caa6d100e6eefc21afb860fb61cac9e21ce1c84785eff9fe1ee"
-
-[[files]]
 file = "mods/kontraption.pw.toml"
 hash = "b3bfa778619a689d5ea21d232ef66f1d690f19abf9de309e0cadd84b1250d683"
 metafile = true
@@ -1319,11 +1328,6 @@ hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "13534b7b77ab87cd1720b0a8a873202c2335360e14917b7c43dd487acd78c5a9"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0b386467fb554a858a523a9674af9a6c76bc1ada934451faa6e57d817f32d9e0"
 metafile = true
@@ -1346,6 +1350,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "df9400a75a35cc7f882da325dcbfbe8f9444a994f5429552d73500a6b8e3ae1b"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
