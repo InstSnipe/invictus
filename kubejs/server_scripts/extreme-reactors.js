@@ -1,32 +1,4 @@
 onEvent('recipes', event => {
-  // Namespace variable
-  let minecraft = 'minecraft:'
-  let kubejs = 'kubejs:'
-  let createdd = 'create_dd:'
-  let mekanism = 'mekanism:'
-  let bigreactors = 'bigreactors:'
-  let bigreactorsReactor = 'bigreactors:reinforced_reactor'
-
-  // Namespace tag variable
-  let fabricTag = '#forge:'
-
-  // Common ingredient
-  // Create
-  let fluidPipe = create + 'fluid_pipe'
-  let fluidTank = create + 'fluid_tank'
-  let mechanicalPump = create + 'mechanical_pump'
-  // Create dream and desire
-  let calculationMechanism = createdd + 'calculation_mechanism'
-  let inductiveMechanism = createdd + 'inductive_mechanism'
-  let infernalMechanism = createdd + 'infernal_mechanism'
-  // Fabric tag
-  let concrete = fabricTag + 'concrete'
-  let steel = fabricTag + 'ingots/steel'
-  // Extreme Reactor
-  let reactorCasing = bigreactorsReactor + 'casing'
-  // Minecraft
-  let redstone = minecraft + 'redstone'
-
   // Helper function
   function encasedTopBottom(output, topInput, SideInput, middleInput, BottomInput) {
     event.shaped(output, [
