@@ -2,8 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8215798e541ba3ba757cde22f4efd16f766c8231f03f7f48ca9fd9d2c6ca60c7"
-
+hash = "bb10418ad5fa8be64465bd683c61adf4e6232167b8499995bd1d0d5752b68dd4"
 
 [[files]]
 file = "config/Mekanism/client.toml"
@@ -11,7 +10,7 @@ hash = "b45735dfd5440103879de13c0d3692ebe8d8b3165e7a6f29f91f6a8175fad3ac"
 
 [[files]]
 file = "config/Mekanism/world.toml"
-hash = "3b0a9192acc8ba50325d7f16f49a9818308fb967a04d6c3b882b856a8d98756b"
+hash = "f0aef7b3fcf48a6537ef16de28014ebd010986094012d054aebc662aab1f8fcf"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -212,6 +211,18 @@ hash = "51c312bfae38b5574ca7496b8f4ba36417349712142b05d4394eb9469361f2c7"
 [[files]]
 file = "config/entityculling.json"
 hash = "1eab49670e52d33fb63c14c6f5eec9d8abf735d9ee24679ba00f2ca19b96c2d0"
+
+[[files]]
+file = "config/extremereactors/client.toml"
+hash = "9b710e34ca66f73728db83740c00ac5ce8ea52aed88ddde753802a9fd7c3a6a0"
+
+[[files]]
+file = "config/extremereactors/common.toml"
+hash = "b8572af1fd2ef7f828a5ce45f37e05e58f6715b4c9a8d70a40cf1c0a4a144b5e"
+
+[[files]]
+file = "config/extremereactors/modpack_api.json"
+hash = "ab2f3b982fc005486084b5c5c842fc69806c9fe8de2d7757e6c24abad737b428"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -750,6 +761,14 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "kubejs/server_scripts/constant.js"
+hash = "c407194aa6ae074d7c92084f26d8c196f614e6c05e02942f5ce3a07a742c6f40"
+
+[[files]]
+file = "kubejs/server_scripts/extreme-reactors.js"
+hash = "338c470e7f4ec67a129be2481694d5dc16aad35a0f0923a54e92cc237770a8c3"
+
+[[files]]
 file = "kubejs/server_scripts/kreatism.js"
 hash = "b8a4fe7af8c871b1759d76cfd213b5bde70c765f8a5d33d6edf7096a855cc801"
 
@@ -760,6 +779,26 @@ hash = "f86bafd8f493e351d451357798816fb83778004e58b9d3e3b6014e388f9dfd3f"
 [[files]]
 file = "kubejs/server_scripts/tweaked_clockwork.js"
 hash = "5bb714db86c7ddd975d542c6200c9c18d18996a62088cc09d8fbb266c887e8c3"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_items/alloy.js"
+hash = "42562337d38d8df880f52a3980545a3fe5dbc66da922785b96eeb9c36af6b093"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_items/board.js"
+hash = "2ef701bb5ed350e7379b10314a1926ab82467b11f6d27431024d11612e9d4a8b"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_items/mechanism.js"
+hash = "2a083dabcb1c8cee04bebefad00d9298d45627a766099b9259c45c2cad8df368"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_items/screen.js"
+hash = "71f3a16c7f091b79ac655a972b9c973a5ab930d5e9e139d607439ba6e54b39f1"
+
+[[files]]
+file = "kubejs/startup_scripts/customitems.js"
+hash = "71f3a16c7f091b79ac655a972b9c973a5ab930d5e9e139d607439ba6e54b39f1"
 
 [[files]]
 file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
