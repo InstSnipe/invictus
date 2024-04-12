@@ -1,0 +1,13 @@
+name = "Emoji Type"
+filename = "emoji-type-2.2.1+1.18.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q7vRRpxU/versions/56RYN3J9/emoji-type-2.2.1%2B1.18.2-forge.jar"
+hash-format = "sha1"
+hash = "ad734c67814120c87bedc9cf32544cabe2727d44"
+
+[update]
+[update.modrinth]
+mod-id = "q7vRRpxU"
+version = "56RYN3J9"

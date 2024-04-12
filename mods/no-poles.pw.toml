@@ -1,0 +1,13 @@
+name = "No Poles"
+filename = "nopoles-1.0.1-1.18+(1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2MqpRG19/versions/1.0.1/nopoles-1.0.1-1.18%2B%281%29.jar"
+hash-format = "sha1"
+hash = "7f12f9b9c28537b0530e2f1136b4d38914358f4a"
+
+[update]
+[update.modrinth]
+mod-id = "2MqpRG19"
+version = "9cAGbkMr"

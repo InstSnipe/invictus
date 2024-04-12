@@ -1,0 +1,13 @@
+name = "Inventory Tabs (Forge)"
+filename = "inventorytabs-forge-1.18.2-0.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "412cd28b61c5757ee6573ac0d3e95400262a28b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4165169
+project-id = 716101

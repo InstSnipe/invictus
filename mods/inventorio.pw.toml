@@ -1,0 +1,13 @@
+name = "Inventorio"
+filename = "inventorio-1.18-forge-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LcafSQPm/versions/qNWratb7/inventorio-1.18-forge-1.9.1.jar"
+hash-format = "sha1"
+hash = "297ddd6a2d925e0e9785b18c0297ce3be2cbacff"
+
+[update]
+[update.modrinth]
+mod-id = "LcafSQPm"
+version = "qNWratb7"

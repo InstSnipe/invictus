@@ -1,0 +1,13 @@
+name = "Create: Extended Cogwheels"
+filename = "extendedgears-2.1.0-1.18.2-0.5.1.c-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO4lsa4Y/versions/NCtjxBv8/extendedgears-2.1.0-1.18.2-0.5.1.c-forge.jar"
+hash-format = "sha1"
+hash = "6953cfab84994e640290ede8cc5f680aaaba96e5"
+
+[update]
+[update.modrinth]
+mod-id = "qO4lsa4Y"
+version = "NCtjxBv8"

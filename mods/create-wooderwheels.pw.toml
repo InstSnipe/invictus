@@ -1,0 +1,13 @@
+name = "Create: WooderWheels"
+filename = "create_wooderwheels-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66061ed7ce6052c2e0b24f65ed428d7f23ff5be0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5108300
+project-id = 974537

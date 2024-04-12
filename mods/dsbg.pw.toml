@@ -1,0 +1,13 @@
+name = "Detected setBlock Be Gone"
+filename = "dsbg-1.0-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zv7fYVyQ/versions/qjmmbUKc/dsbg-1.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "f31dcb42e94830e0b9876bf742dcc3221a102fab"
+
+[update]
+[update.modrinth]
+mod-id = "zv7fYVyQ"
+version = "qjmmbUKc"
