@@ -1,7 +1,9 @@
 onEvent('item.registry', event => {
     // Board is used for computercraft
     // the mother board
-    event.create('circuit_board', 'create:sequenced_assembly').displayName('Circuit Board')
+    event.create('circuit_board', 'create:sequenced_assembly').displayName('Circuit Board').unstackable().subtypes(item => {
+        return Utils.newList().add(item.copy().setNbt({content:[]}))
+    })
     // Used for block that do computation
     event.create('processing_unit', 'create:sequenced_assembly').displayName('Processing Unit')
     // Used for block that display anything
