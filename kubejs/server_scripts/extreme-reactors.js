@@ -149,4 +149,27 @@ onEvent('recipes', event => {
     fluidPipe,
     fluidTank
   )
+
+  // Add custom recipe
+
+  // Add rolling recipe for steel rod
+  event.custom({
+    type: 'createaddition:rolling',
+    input: { tag: steel },
+    result: {
+      item: kubejs + 'steel_rod',
+      count: 2
+    }
+  }
+
+  // Add shaped recipe for control rod
+  event.shaped(
+    Item.of(kubejs + 'control_rod', 1), [
+    'A',
+    'A',
+    'B'
+  ], {
+    A: conrete
+    B: kubejs + 'steel_rod'
+  })
 })
