@@ -2,7 +2,8 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "bb10418ad5fa8be64465bd683c61adf4e6232167b8499995bd1d0d5752b68dd4"
+hash = "8215798e541ba3ba757cde22f4efd16f766c8231f03f7f48ca9fd9d2c6ca60c7"
+
 
 [[files]]
 file = "config/Mekanism/client.toml"
@@ -749,12 +750,25 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "kubejs/server_scripts/kreatism.js"
+hash = "b8a4fe7af8c871b1759d76cfd213b5bde70c765f8a5d33d6edf7096a855cc801"
+
+[[files]]
 file = "kubejs/server_scripts/nomekanism.js"
-hash = "beb16df218b825f7f81ca86adbecbcdfa4c76e525fc68915579a4123671ef1fd"
+hash = "f86bafd8f493e351d451357798816fb83778004e58b9d3e3b6014e388f9dfd3f"
+
+[[files]]
+file = "kubejs/server_scripts/tweaked_clockwork.js"
+hash = "5bb714db86c7ddd975d542c6200c9c18d18996a62088cc09d8fbb266c887e8c3"
 
 [[files]]
 file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
 hash = "eaa0a560d8e0cff41a3706afd58421233641caa7393e11159c7c964ee64fa340"
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "3f0cc4810d4ada8f2c7d5365f6d65143a980a4b9b689c7c1cf98fde716e023c5"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -1241,6 +1255,11 @@ metafile = true
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
 hash = "44276229d7142723fbdb5e4c3418351f97ad7f3ff65b1d5996d39d561efb11d0"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "90a0852575af8546740b37eb9aca1f22d0546a2c0ff66177500e574cd80c8429"
 metafile = true
 
 [[files]]
