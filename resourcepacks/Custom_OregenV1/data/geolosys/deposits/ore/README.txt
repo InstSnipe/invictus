@@ -1,0 +1,1 @@
+Here I'm overriding gold.json to place minecraft gold_ore instead of Geolosys gold_ore, and I want the sample to be a cornflower

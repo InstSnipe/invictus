@@ -1,0 +1,1 @@
+The folder and subfolder names from this level on only matter if you want to **OVERRIDE** an existing datapack. If you don't, you can name this folder whatever you want e.g. your modpack's name, your name, completely_new_deposit, etc..
