@@ -3,7 +3,7 @@
   "config": {
     "yMin": -64,
     "yMax": 10,
-    "baseRadius": 3,
+    "baseRadius": 15,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["overworld"]
@@ -36,6 +36,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 2
+    "generationWeight": 1
   }
 }
