@@ -3,7 +3,7 @@
   "config": {
     "yMin": 34,
     "yMax": 78,
-    "size": 48,
+    "size": 400,
     "spread": 48,
     "dimensions": {
       "isBlacklist": false,
@@ -29,6 +29,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 6
+    "generationWeight": 4
   }
 }
