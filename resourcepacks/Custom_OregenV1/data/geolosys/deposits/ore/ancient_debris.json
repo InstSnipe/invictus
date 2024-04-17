@@ -3,7 +3,7 @@
   "config": {
     "yMin": 8,
     "yMax": 22,
-    "baseRadius": 3,
+    "baseRadius": 5,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["the_nether"]
@@ -33,6 +33,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 1
+    "generationWeight": 0.5
   }
 }
