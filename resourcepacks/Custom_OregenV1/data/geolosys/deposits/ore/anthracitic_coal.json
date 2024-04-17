@@ -3,7 +3,7 @@
   "config": {
     "yMin": -64,
     "yMax": -52,
-    "radius": 3,
+    "radius": 75,
     "depth": 4,
     "dimensions": {
       "isBlacklist": false,
@@ -37,6 +37,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 4
+    "generationWeight": 2
   }
 }
