@@ -3,7 +3,7 @@
   "config": {
     "yMin": -56,
     "yMax": 19,
-    "baseRadius": 2,
+    "baseRadius": 10,
     "biomes": {
       "isBlacklist": false,
       "filter": ["MOUNTAIN"]
@@ -40,6 +40,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 2
+    "generationWeight": 1
   }
 }
