@@ -3,7 +3,7 @@
   "config": {
     "yMin": -16,
     "yMax": 32,
-    "size": 32,
+    "size": 220,
     "spread": 32,
     "biomes": {
       "isBlacklist": false,
@@ -33,6 +33,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 6
+    "generationWeight": 3
   }
 }
