@@ -31,11 +31,11 @@
     ],
     "yMin": -49,
     "yMax": 13,
-    "size": 80,
+    "size": 240,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["overworld"]
     },
-    "generationWeight": 3
+    "generationWeight": 2
   }
 }
