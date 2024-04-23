@@ -1,0 +1,9 @@
+Current Fuel Plans:
+    3-4 fuel types with two varients of each, one high one low
+    Plan to chain recipes together to make higher fuels using previous fuels
+    Each "Tier" of fuel will be geared towards diffrent things(will be restructured to fit amount of fuels);
+        Tier 1, basic, used for your most basic reactors, useful for reactors in outpost and smallest nuclear powered vessels. Perk, slowest burn time
+
+        Tier 2, more intermidit, used for larger of more efficent reactors, useful for small supply depots/bases and mid sized nuclear vessels, ex. adverage nuclear sub most likely will run on this. 
+
+        Tier 3, Advanced, higly efficent, but comes at a faster burn time, useful for HQ's and Large vessles, ex. supercarrier
