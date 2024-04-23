@@ -3,7 +3,7 @@
   "config": {
     "yMin": 10,
     "yMax": 40,
-    "size": 35,
+    "size": 350,
     "blockStateMatchers": [
       "minecraft:netherrack",
       "minecraft:basalt",
@@ -33,6 +33,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 10
+    "generationWeight": 5
   }
 }
