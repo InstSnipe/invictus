@@ -39,7 +39,7 @@
     ],
     "yMin": -52,
     "yMax": -40,
-    "baseRadius": 15,
+    "baseRadius": 7,
     "biomes": {
       "isBlacklist": false,
       "filter": ["RIVER", "HOT"]

@@ -3,7 +3,7 @@
   "config": {
     "yMin": -64,
     "yMax": 10,
-    "baseRadius": 15,
+    "baseRadius": 7,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["overworld"]
