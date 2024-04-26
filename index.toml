@@ -3098,10 +3098,6 @@ file = "resourcepacks/Create+Guns+1.18+v4.zip"
 hash = "03acaee13e91d653bdbfce82119b341f2840e07026c02a895c708020b30ab5d6"
 
 [[files]]
-file = "resourcepacks/Custom_OregenV1.zip"
-hash = "e9fb9348109148202e2e58d5a7c368aca24e7d4de29c429a3abd05c3a688442f"
-
-[[files]]
 file = "resourcepacks/Custom_OregenV1/data/README.txt"
 hash = "87e5a2c7e42231a5dc177b9444708864bccb5b08afd5cbca6a0c98cd9a7b7d70"
 
