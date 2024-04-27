@@ -20,3 +20,8 @@ Current Fuel Refinement Plans:
         8: Get used fuel
         9: Breakdown used fuel
         10: Repeat 1-9 using products from used fuel to make next fuel
+    probably crush ingots into nuggets of U-235 and U-238
+    make nuggets into chunks of same isotope
+    remix the nuggets and/or chunks into fuels with a proccess of mixers
+    (maybe) mix imcomplete fuel with a catalyst of some sort to help diffrenceate the fuel recipes
+    some sort of seqienced assembly to finish fuel (probaly just a "compaction" or press)
