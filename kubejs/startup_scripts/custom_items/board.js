@@ -11,7 +11,7 @@ onEvent('item.registry', event => {
     // Used for block that display anything
     event.create('screen_translation_layer').displayName('Screen Translation Layer')
     // Used for raycaster
-    event.create('laser_pointer', 'create:sequenced_assembly').displayName('Laser Pointer')
+    event.create('laser_pointer').displayName('Laser Pointer')
     // Used for block that is wireless
     event.create('rednet_port').displayName('Rednet Port')
     // Used for block that can output or input
