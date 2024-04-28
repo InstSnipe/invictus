@@ -8,6 +8,7 @@ var bigreactorsReactor = 'bigreactors:reinforced_reactor'
 
 // Namespace tag variable
 var fabricTag = '#forge:'
+var kubejsTag = '#kubejs:'
 
 
 // Common ingredient
