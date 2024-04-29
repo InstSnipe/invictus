@@ -12,7 +12,7 @@ onEvent('item.registry', event => {
 onEvent('fluid.registry', event => {
     // Just silicon fluid
     event.create('silicon_fluid')
-    .thickTexture(0x212426)
+    .textureThick(0x212426)
     .bucketColor(0x212426)
     .displayName('Silicon Fluid')
     .luminosity(2)
