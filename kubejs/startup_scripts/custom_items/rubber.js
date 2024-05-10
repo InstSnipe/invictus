@@ -34,7 +34,10 @@ onEvent('block.registry', event => {
             if (level.getRandom().nextFloat() < 0.5) { return }
             let belowBlock = level.getBlockState(belowBlockPos).block
             if (belowBlock.id == create + 'basin') {
-                belowBlock.tag
+                let basinData = belowBlock.entityData.InputTanks
+                if (["minecraft:empty", kubejs + 'raw_rubber_fluid'].includes(basinData[0].TankContent.FluidName)) {
+                    let total = basinData[0].TankContent.Amount
+                }
             }
         })
 
