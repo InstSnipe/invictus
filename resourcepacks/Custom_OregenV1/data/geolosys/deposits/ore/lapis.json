@@ -16,13 +16,13 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:lapis_ore",
+          "block": "minecraft:lapis_ore",
           "chance": 1.0
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_lapis_ore",
+          "block": "minecraft:deepslate_lapis_ore",
           "chance": 1.0
         }
       ]

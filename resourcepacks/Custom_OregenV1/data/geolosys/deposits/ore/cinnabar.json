@@ -12,13 +12,13 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:cinnabar_ore",
+          "block": "minecraft:redstone_ore",
           "chance": 1.0
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_cinnabar_ore",
+          "block": "minecraft:deepslate_redstone_ore",
           "chance": 1.0
         }
       ]

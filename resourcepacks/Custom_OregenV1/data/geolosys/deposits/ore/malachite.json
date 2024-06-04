@@ -4,7 +4,7 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:malachite_ore",
+          "block": "minecraft:copper_ore",
           "chance": 0.9
         },
         {
@@ -14,7 +14,7 @@
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_malachite_ore",
+          "block": "minecraft:deepslate_copper_ore",
           "chance": 0.9
         },
         {

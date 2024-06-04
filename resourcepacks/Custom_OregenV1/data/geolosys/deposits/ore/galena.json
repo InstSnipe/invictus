@@ -1,4 +1,4 @@
-{
+//{
   "type": "geolosys:deposit_sparse",
   "config": {
     "yMin": -16,

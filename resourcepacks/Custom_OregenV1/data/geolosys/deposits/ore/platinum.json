@@ -15,7 +15,7 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:platinum_ore",
+          "block": "mekanism:tin_ore",
           "chance": 0.67
         },
         {
@@ -25,7 +25,7 @@
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_platinum_ore",
+          "block": "mekanism:deepslate_tin_ore",
           "chance": 0.67
         },
         {

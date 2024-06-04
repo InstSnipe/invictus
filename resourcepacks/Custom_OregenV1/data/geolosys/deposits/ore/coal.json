@@ -12,13 +12,13 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:coal_ore",
+          "block": "minecraft:coal_ore",
           "chance": 1.0
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_coal_ore",
+          "block": "minecraft:deepslate_coal_ore",
           "chance": 1.0
         }
       ]

@@ -11,7 +11,7 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:kimberlite_ore",
+          "block": "minecraft:diamond_ore",
           "chance": 0.5
         },
         {
@@ -21,7 +21,7 @@
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_kimberlite_ore",
+          "block": "minecraft:deepslate_diamond_ore",
           "chance": 0.5
         },
         {
