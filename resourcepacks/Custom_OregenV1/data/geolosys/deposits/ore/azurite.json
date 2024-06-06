@@ -1,0 +1,41 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "blocks": {
+      "default": [
+        {
+          "block": "minecraft:copper_ore",
+          "chance": 0.85
+        },
+        {
+          "block": null,
+          "chance": 0.15
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "minecraft:deepslate_copper_ore",
+          "chance": 0.85
+        },
+        {
+          "block": null,
+          "chance": 0.15
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:azurite_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "yMin": -49,
+    "yMax": 13,
+    "size": 240,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": ["overworld"]
+    },
+    "generationWeight": 2
+  }
+}
