@@ -217,6 +217,10 @@ file = "config/entityculling.json"
 hash = "1eab49670e52d33fb63c14c6f5eec9d8abf735d9ee24679ba00f2ca19b96c2d0"
 
 [[files]]
+file = "config/extremereactors/PLANNER"
+hash = "a82fa2edee1066f1886768070214dcd158bda85dd142d9da4449b47c11d631bc"
+
+[[files]]
 file = "config/extremereactors/client.toml"
 hash = "9b710e34ca66f73728db83740c00ac5ce8ea52aed88ddde753802a9fd7c3a6a0"
 
@@ -226,7 +230,7 @@ hash = "b8572af1fd2ef7f828a5ce45f37e05e58f6715b4c9a8d70a40cf1c0a4a144b5e"
 
 [[files]]
 file = "config/extremereactors/modpack_api.json"
-hash = "ab2f3b982fc005486084b5c5c842fc69806c9fe8de2d7757e6c24abad737b428"
+hash = "cdb674c975d204c68d395267f728fc0cc6c792ab9294b1a65bd7b2da0ef1fabc"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -2355,6 +2359,10 @@ file = "kubejs/server_scripts/constant.js"
 hash = "bd044081906505c848b708907afbde1fe84f2df5a0c3b7e19bb06fdcb04ee28e"
 
 [[files]]
+file = "kubejs/server_scripts/extreme-reactors.js"
+hash = "338c470e7f4ec67a129be2481694d5dc16aad35a0f0923a54e92cc237770a8c3"
+
+[[files]]
 file = "kubejs/server_scripts/kreatism.js"
 hash = "b8a4fe7af8c871b1759d76cfd213b5bde70c765f8a5d33d6edf7096a855cc801"
 
@@ -2363,8 +2371,12 @@ file = "kubejs/server_scripts/nomekanism.js"
 hash = "f86bafd8f493e351d451357798816fb83778004e58b9d3e3b6014e388f9dfd3f"
 
 [[files]]
+file = "kubejs/server_scripts/nuclear_fuel.js"
+hash = "91ba0566f37aacc0cb0c8c7183575a80530a0bea7769d7f6800c43ebdd2e1ca2"
+
+[[files]]
 file = "kubejs/server_scripts/rubber.js"
-hash = "a5e342d4b0d33915e030c8261502a52bdcf54243f5e54a40fa84a106cd59fab3"
+hash = "84775ed93c390852102dbd8100cf26e8c05a79ebd14e3b5d6b28485f247400ab"
 
 [[files]]
 file = "kubejs/server_scripts/tweaked_clockwork.js"
@@ -2383,12 +2395,16 @@ file = "kubejs/startup_scripts/custom_items/mechanism.js"
 hash = "9c4715f6a11a07ae524d4457d2813981d490ff7ea0cbc3d31414ea732bcda12e"
 
 [[files]]
-file = "kubejs/startup_scripts/custom_items/rubber.js"
-hash = "c9be1bd32c38101a64974fb10426cab9cae5df19082a174ba99a4ea9edf1441a"
+file = "kubejs/startup_scripts/custom_items/nuclear.js"
+hash = "7ce273e358df6c77b81d0ed4c21ef5f5485f3263523ca02fec38b51a4df0a571"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_items/screen.js"
-hash = "71f3a16c7f091b79ac655a972b9c973a5ab930d5e9e139d607439ba6e54b39f1"
+hash = "1ce15f33765c735dc6c55637213408b7ba485d8e089c97ae785848a4c725eaf3"
+
+[[files]]
+file = "mods/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar"
+hash = "eaa0a560d8e0cff41a3706afd58421233641caa7393e11159c7c964ee64fa340"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
@@ -2408,11 +2424,6 @@ metafile = true
 [[files]]
 file = "mods/atlas-lib.pw.toml"
 hash = "b0ec455f8244b665f75a5a1d3205f63adf1b970f76867dacd73b9c04f593f98a"
-metafile = true
-
-[[files]]
-file = "mods/autoreglib.pw.toml"
-hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
@@ -2650,6 +2661,10 @@ hash = "2535cabe306496e65807eaea648e82f063261aa265cb80634a6206dd8aabbc8f"
 metafile = true
 
 [[files]]
+file = "mods/design_decor-0.2a-1.18.2.jar"
+hash = "3c731613cb4422b999e4f9c551f38af097413dd9f055748cbadb9ae8d0b9548c"
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "3f9f4aad8c366562b8e8ffa3f4cca288aaec021086db9be6ee9dc1d1749c35e5"
 metafile = true
@@ -2850,8 +2865,12 @@ hash = "09703a6a17d155517d9a99f0ac08f3a038f4c6dcb215bf14ff6cd095dd523395"
 metafile = true
 
 [[files]]
-file = "mods/kontraption.pw.toml"
-hash = "b3bfa778619a689d5ea21d232ef66f1d690f19abf9de309e0cadd84b1250d683"
+file = "mods/kontraption-1182-0.0.2-bf37e83824.jar"
+hash = "7effc0338b184caa6d100e6eefc21afb860fb61cac9e21ce1c84785eff9fe1ee"
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "39f27b8ee817ad146e795b1b8c344550bc929c06b6ab386a7400b6650211c2ab"
 metafile = true
 
 [[files]]
@@ -2945,6 +2964,11 @@ hash = "463232f82ef7c7e4294298832ea41af897f42f04490abf7279105bd8074260e5"
 metafile = true
 
 [[files]]
+file = "mods/ore-tweaker.pw.toml"
+hash = "48cd2b4dd34f435f1d256bf7495f5025cb0e6137295540dc496d7b5ace6e1f6d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
@@ -2972,16 +2996,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "df9400a75a35cc7f882da325dcbfbe8f9444a994f5429552d73500a6b8e3ae1b"
-metafile = true
-
-[[files]]
-file = "mods/quark-oddities.pw.toml"
-hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
@@ -3142,6 +3156,11 @@ hash = "b8a004676d00f517cd0d15e7dfbcc744dc806b3198c364735d5420255f4e525a"
 metafile = true
 
 [[files]]
+file = "mods/zerocore.pw.toml"
+hash = "1a85d07571b0a6f54ec542b0a8bf7d11732a55829937da7c01f7b5756e5b25c6"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "5ff8bbe2165aa02c9e6641ef7b24881f55e16f627bae34b67ac152af17092d23"
 
@@ -3183,15 +3202,15 @@ hash = "b99777768e7839b551e0564a60816b97c979a2adf69835e5b6ef583ac1a95045"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/azurite.json"
-hash = "e4f816e907b42e64e543ea451c55b1b6c10e8566a756f4a68fd4328cd671f515"
+hash = "a60c2531a7d99fdd232f3a096316e0573a17cc729ae9674b60751cfd241e16a2"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/bauxite.json"
-hash = "f868428715cb3f65041084f02103e08765ed01c1ead5e3a10498b731675561ea"
+hash = "47f78ba989d753e8f7b132808b10c775876579b15e4ed7c1c1ce507733e6a489"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/beryl.json"
-hash = "4a56a2826ff5e68e87e634f549a8b55c0851376d3b7fb1dcfbebefad09f80b85"
+hash = "9df7913351d1a7dc9bd589dc26311b86c2618f0d1c77bd2c640caa8386b0dc45"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/bituminous_coal.json"
@@ -3199,15 +3218,27 @@ hash = "9dff2b8c30f25e36f052fcac579599bbc873d963c3cbaa995b539643f1feb79c"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/cassiterite.json"
-hash = "9491677ca68ec6a500b1d02436d36e8b870daa15d2816df91688c366b715e96a"
+hash = "2f908d263ab48b805845e41ab3492b626eedfc64befd7b0ec5e4bd9f6c692282"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/cinnabar.json"
-hash = "21fadc0213464bfd253e9561587368f2c872a3ae3f8f6d5fc3d803dbca02f375"
+hash = "c59c725527703d450868e834cbc61622a168f0df285a4056fa7ebb2d2eac8131"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/coal.json"
-hash = "34c746657b2aaa87e323dc2b1f0bbc0424120b30a8eff42d1d9b9b53e64fd21c"
+hash = "ce1812e3bca516def3a77b3061bd3048f0d96ceb3d4fbcf35a0f2732620873ae"
+
+[[files]]
+file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/copper.json"
+hash = "87cdeeddae30e114091e93d6cd6fd291bbfef207a1379aeea901dfe8e5df31a4"
+
+[[files]]
+file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/diamond.json"
+hash = "fd55c1d1f1f26c86e981ccdc3dc1cf32d7a41e684b411d3123971cec2f4ece5f"
+
+[[files]]
+file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/emerald.json"
+hash = "6c03fac5a00a89d7e024b296a2a9f3876cafb1798b9c9eff61817c09daf73b40"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/galena.json"
@@ -3215,7 +3246,7 @@ hash = "5ce30c7302da41c5b8af795357b13fc84fc8e9c08e9869faeaaaa689a20df4e3"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/gold.json"
-hash = "2bbbf39704126cd364843f633764ae123cb6e38956d04b63249a77b6d1015aa5"
+hash = "4c989276d3c342fba6566e81c2732a01691bf99df6066937e69810e6ab724cf2"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/gold_nether.json"
@@ -3223,15 +3254,19 @@ hash = "143a59f3704738bca355c185ee85d4b09157ee1e69abd0a8470ea6977188f86b"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/hematite.json"
-hash = "3cc297dc418e0ec9e058337375db24b768bd11eb4f00a615d0627c195f16fb99"
+hash = "86e25984fe647ddbf8f2e51d49d8a89e1f485f3b917c16c02213526b7e527e17"
+
+[[files]]
+file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/iron.json"
+hash = "6ac6f21e143a97e3abc306fc74959a85c4cd8fe9d00511bf7f6376eb909f1897"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/kimberlite.json"
-hash = "dd4946ef4d01b3dcc38ee1e22a44753462e92bef86e672bde17c326e09e9ff7c"
+hash = "dc2f2a72991a1e9917a664c5b273707c1d5ae2bd95f60b03964b51d693d977cd"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/lapis.json"
-hash = "a1b33755987271ef44dc7d9e77b815357fb176d0998a9ca21358f2f2ab4986d3"
+hash = "187fa33353772f1e4e487474f326d3e8891e3f8b06904fd558c7267a64e7881c"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/lignite.json"
@@ -3239,23 +3274,31 @@ hash = "3df0ba856cb46643cee800f9bddb96574676a20d7f78417d569f32570b302ab4"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/limonite.json"
-hash = "8073e8000d4a94d6b9a89ce99725430868d8027875d9c74e1f87221524d428f1"
+hash = "2f55372d44aa2e69c0edc49e87404192449cfc7bb5fadd3bdddff502d1c84d9f"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/malachite.json"
-hash = "b8d53774f01878a8938d93f9014ae8850b27aa09bca2b5aa728b49e1e743682c"
+hash = "8479222af92e4c4e300cb32429331ad77cce293b10d922238ec01aaaa6d47ef7"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/platinum.json"
-hash = "7926f9aee759a0b2a5303156ac43c2704433c2fc865254155ff375ed015f531c"
+hash = "137078de4707c28ebd7da0188aa3256989236b4c209f75fdd9529f1f4dbbeaab"
+
+[[files]]
+file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/redstone.json"
+hash = "edcd7b54c48d06f44849db3b9df67a4f25606e7e484ce1299649339fdf89259a"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/sphalerite.json"
-hash = "5c61ffd973a92fcda58e11f9b982e5eca4a24e3e0615c61a8bdf3190a572db79"
+hash = "df8b2d9a4b9d89b68a65bde31b098878fc5f8648f73841c1d2ddf5526c68db5b"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/teallite_and_emerald.json"
-hash = "6c060cede788072805f00f000949103d48596ac61b0ca9b7fdf81586e35e1dc6"
+hash = "a9627c1fd10b47c534c4ac3ea7ed7834c68964efc1c6844ba67b7231532cae8d"
+
+[[files]]
+file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/ore/zinc.json"
+hash = "def0f0a51ffa498283e15121fbf51ced4c520a70c35d5f99b0f99528add51847"
 
 [[files]]
 file = "resourcepacks/Custom_OregenV1/data/geolosys/deposits/other/peat.json"
