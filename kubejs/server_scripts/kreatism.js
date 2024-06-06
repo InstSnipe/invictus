@@ -1,14 +1,8 @@
-
-
 onEvent('recipes', event => {
-	let minecraft = 'minecraft:'
-	let fabrictag = '#forge:'
-	let create = 'create:'
-	let createdd = 'create_dd:'
-	let createbc = 'createbigcannons:'
-	let clockwork = 'vs_clockwork:'
-	let mekanism = 'mekanism:'
-	let kontraption = 'kontraption:'
+	let thrusterCasing = kontraption + 'liquid_fuel_thruster_casing'
+	let thrusterValve = kontraption + 'liquid_fuel_thruster_valve'
+	let thrusterExhaust = kontraption + 'liquid_fuel_thruster_exhaust'
+	
 	event.remove({ mod: 'kontraption' })
 	
 	event.shaped(
@@ -19,10 +13,10 @@ onEvent('recipes', event => {
 			'aea'
 		],
 		{
-			a: minecraft + 'redstone',
-			b: create + 'precision_mechanism',
+			a: redstone,
+			b: infernalMechanism,
 			c: mekanism + 'ingot_osmium',
-			d: fabrictag + 'storage_blocks/steel',
+			d: steelBlock,
 			e: clockwork + 'wanderlite_matrix'
 		}
 	)
@@ -37,9 +31,9 @@ onEvent('recipes', event => {
 		{
 			a: fabrictag + 'glass',
 			b: minecraft + 'glowstone',
-			c: createdd + 'calculation_mechanism',
+			c: floatProcessingMechanism,
 			d: fabrictag + 'storage_blocks/steel',
-			e: createdd + 'integrated_mechanism'
+			e: integratedCadereMechanism
 		}
 	)
 	
@@ -50,47 +44,40 @@ onEvent('recipes', event => {
 			'ade'
 		],
 		{
-			a: createdd + 'calculation_mechanism',
+			a: computationMechanism,
 			c: create + 'flywheel',
 			b: minecraft + 'gold_block',
-			d: fabrictag + 'storage_blocks/steel',
-			e: createdd + 'integrated_mechanism'
+			d: steelBlock,
+			e: integratedCadereMechanism
 		}
 	)
 	
 	event.shapeless(
-		Item.of(kontraption + 'liquid_fuel_thruster_casing', 4),
+		Item.of(thrusterCasing, 4),
 		[
 			fabrictag + 'ingots/tin',
-			'3x #' + createbc + 'ingot_steel',
+			'3x #' + steel,
 		]
 	)
 	event.shapeless(
-		Item.of(kontraption + 'liquid_fuel_thruster_casing', 1),
+		Item.of(thrusterCasing, 1),
 		[
-			kontraption + 'liquid_fuel_thruster_exhaust',
-		]
-	)
-	
-	event.shapeless(
-		Item.of(kontraption + 'liquid_fuel_thruster_valve', 1),
-		[
-			kontraption + 'liquid_fuel_thruster_casing',
-			createdd + 'infernal_mechanism',
+			thrusterExhaust,
 		]
 	)
 	
 	event.shapeless(
-		Item.of(kontraption + 'liquid_fuel_thruster_exhaust', 1),
+		Item.of(thrusterValve, 1),
 		[
-			kontraption + 'liquid_fuel_thruster_casing',
+			thrusterCasing,
+			infernalMechanism,
 		]
 	)
 	
 	event.shapeless(
-		Item.of(kontraption + 'rubber_block', 1),
+		Item.of(thrusterExhaust, 1),
 		[
-			'9x ' + createdd + 'rubber',
+			thrusterCasing
 		]
 	)
 })
