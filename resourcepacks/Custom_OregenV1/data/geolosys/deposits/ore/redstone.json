@@ -1,14 +1,10 @@
 {
   "type": "geolosys:deposit_sparse",
   "config": {
-    "yMin": -16,
-    "yMax": 32,
-    "size": 220,
-    "spread": 32,
-    "biomes": {
-      "isBlacklist": false,
-      "filter": ["PLAINS"]
-    },
+    "yMin": -60,
+    "yMax": 15,
+    "size": 300,
+    "spread": 48,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["overworld"]
@@ -16,23 +12,23 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:galena_ore",
+          "block": "minecraft:redstone_ore",
           "chance": 1.0
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_galena_ore",
+          "block": "minecraft:deepslate_redstone_ore",
           "chance": 1.0
         }
       ]
     },
     "samples": [
       {
-        "block": "geolosys:galena_ore_sample",
+        "block": "geolosys:cinnabar_ore_sample",
         "chance": 1.0
       }
     ],
-    "generationWeight": 0
+    "generationWeight": 2
   }
 }

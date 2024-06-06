@@ -1,4 +1,4 @@
-//{
+{
   "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 44,
@@ -41,6 +41,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 3
+    "generationWeight": 0
   }
 }

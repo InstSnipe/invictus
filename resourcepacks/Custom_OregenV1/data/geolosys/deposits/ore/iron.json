@@ -1,10 +1,9 @@
 {
-  "type": "geolosys:deposit_sparse",
+  "type": "geolosys:deposit_dike",
   "config": {
-    "yMin": 37,
-    "yMax": 46,
-    "spread": 48,
-    "size": 280,
+    "yMin": 32,
+    "yMax": 60,
+    "baseRadius": 20,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["overworld"]
@@ -12,23 +11,23 @@
     "blocks": {
       "default": [
         {
-          "block": "create:zinc_ore",
+          "block": "minecraft:iron_ore",
           "chance": 1.0
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "create:deepslate_zinc_ore",
+          "block": "minecraft:deepslate_iron_ore",
           "chance": 1.0
         }
       ]
     },
     "samples": [
       {
-        "block": "geolosys:sphalerite_ore_sample",
+        "block": "geolosys:hematite_ore_sample",
         "chance": 1.0
       }
     ],
-    "generationWeight": 0
+    "generationWeight": 3
   }
 }

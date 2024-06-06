@@ -36,6 +36,6 @@
       "isBlacklist": false,
       "filter": ["overworld"]
     },
-    "generationWeight": 2
+    "generationWeight": 0
   }
 }

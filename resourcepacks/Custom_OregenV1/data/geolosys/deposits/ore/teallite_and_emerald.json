@@ -1,4 +1,4 @@
-//{
+{
   "type": "geolosys:deposit_dike",
   "config": {
     "blocks": {
@@ -48,6 +48,6 @@
       "isBlacklist": false,
       "filter": ["overworld"]
     },
-    "generationWeight": 1.5
+    "generationWeight": 0
   }
 }

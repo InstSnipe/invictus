@@ -1,12 +1,12 @@
 {
   "type": "geolosys:deposit_dike",
   "config": {
-    "yMin": -48,
-    "yMax": -32,
-    "baseRadius": 15,
+    "yMin": -56,
+    "yMax": 19,
+    "baseRadius": 10,
     "biomes": {
       "isBlacklist": false,
-      "filter": ["SWAMP", "MUSHROOM", "WET"]
+      "filter": ["MOUNTAIN"]
     },
     "dimensions": {
       "isBlacklist": false,
@@ -15,31 +15,31 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:limonite_ore",
-          "chance": 0.65
+          "block": "minecraft:emerald_ore",
+          "chance": 0.45
         },
         {
           "block": null,
-          "chance": 0.35
+          "chance": 0.55
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_limonite_ore",
-          "chance": 0.65
+          "block": "minecraft:deepslate_emerald_ore",
+          "chance": 0.45
         },
         {
           "block": null,
-          "chance": 0.35
+          "chance": 0.55
         }
       ]
     },
     "samples": [
       {
-        "block": "geolosys:limonite_ore_sample",
+        "block": "geolosys:beryl_ore_sample",
         "chance": 1.0
       }
     ],
-    "generationWeight": 0
+    "generationWeight": 2
   }
 }

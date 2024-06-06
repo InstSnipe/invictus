@@ -1,17 +1,10 @@
 {
   "type": "geolosys:deposit_dense",
   "config": {
-    "yMin": 48,
-    "yMax": 65,
-    "size": 250,
-    "dimensions": {
-      "isBlacklist": false,
-      "filter": ["overworld"]
-    },
     "blocks": {
       "default": [
         {
-          "block": "geolosys:bauxite_ore",
+          "block": "minecraft:copper_ore",
           "chance": 0.9
         },
         {
@@ -21,7 +14,7 @@
       ],
       "minecraft:deepslate": [
         {
-          "block": "geolosys:deepslate_bauxite_ore",
+          "block": "minecraft:deepslate_copper_ore",
           "chance": 0.9
         },
         {
@@ -32,10 +25,17 @@
     },
     "samples": [
       {
-        "block": "geolosys:bauxite_ore_sample",
+        "block": "geolosys:malachite_ore_sample",
         "chance": 1.0
       }
     ],
-    "generationWeight": 0
+    "yMin": -16,
+    "yMax": 90,
+    "size": 450,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": ["overworld"]
+    },
+    "generationWeight": 2
   }
 }

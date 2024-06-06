@@ -15,7 +15,7 @@
     "blocks": {
       "default": [
         {
-          "block": "geolosys:beryl_ore",
+          "block": "minecraft:emerald_ore",
           "chance": 0.45
         },
         {
@@ -40,6 +40,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 2
+    "generationWeight": 0
   }
 }
