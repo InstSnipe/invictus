@@ -1,6 +1,6 @@
 filename = 'fancymenu_forge_3.0.6_MC_1.18.2.jar'
 name = 'FancyMenu'
-side = 'both'
+side = 'client'
 
 [download]
 hash = '8f29388eaf0815a8c89f779df3e41d5029109924'

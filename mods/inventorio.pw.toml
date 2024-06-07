@@ -1,6 +1,6 @@
 name = "Inventorio"
 filename = "inventorio-1.18-forge-1.9.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LcafSQPm/versions/qNWratb7/inventorio-1.18-forge-1.9.1.jar"

@@ -1,6 +1,6 @@
 name = "Inventory Tabs (Forge)"
 filename = "inventorytabs-forge-1.18.2-0.9.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

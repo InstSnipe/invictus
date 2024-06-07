@@ -1,6 +1,6 @@
 filename = 'connectedness-1.18.2-2.0.1a.jar'
 name = 'Connectedness'
-side = 'both'
+side = 'client'
 
 [download]
 hash = 'd5126d23155f611a7926480c247976e5c230039d'

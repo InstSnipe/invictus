@@ -1,6 +1,6 @@
 name = "Clear Despawn [Forge]"
 filename = "ClearDespawn-forge-1.18.2-1.1.7.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
