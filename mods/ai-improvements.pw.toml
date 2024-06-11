@@ -1,0 +1,13 @@
+name = "AI Improvements"
+filename = "AI-Improvements-1.18.2-0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DSVgwcji/versions/Z2jNP6b2/AI-Improvements-1.18.2-0.5.2.jar"
+hash-format = "sha1"
+hash = "53d3bcc10b785bbd4d0c51331b3328e0fdfd9007"
+
+[update]
+[update.modrinth]
+mod-id = "DSVgwcji"
+version = "Z2jNP6b2"
