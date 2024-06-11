@@ -33,13 +33,13 @@
 	Automation = true
 	Building = true
 	Management = true
-	Tools = true
+	Tools = false
 	Tweaks = true
 	World = true
 	Mobs = false
 	Client = true
 	Experimental = false
-	Oddities = true
+	Oddities = false
 
 [automation]
 	"Redstone Randomizer" = true

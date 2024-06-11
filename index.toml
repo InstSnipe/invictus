@@ -614,7 +614,7 @@ hash = "a8cd28dcce8968c65a7e940377476262e4fc08e48044e8b45f34c407e0e2627d"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a1eb392ef77982d5d7c65f30de140497172e2ca8d57174c83bb9146237e8981c"
+hash = "99e858b75ab4b34f99ff1872d8be8029c7c56e3ea3829ff03595d2c646383f7a"
 
 [[files]]
 file = "config/quark.json"
@@ -1371,11 +1371,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "df9400a75a35cc7f882da325dcbfbe8f9444a994f5429552d73500a6b8e3ae1b"
-metafile = true
-
-[[files]]
-file = "mods/quark-oddities.pw.toml"
-hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
 metafile = true
 
 [[files]]
