@@ -1,0 +1,45 @@
+Lignite,(extra notes go here)
+
+Limonite,(extra notes go here)
+
+Gold,(extra notes go here)
+
+Malacite,(extra notes go here)
+
+Hematite,(extra notes go here)
+
+Autunite,(extra notes go here)
+
+Kimberlite,(extra notes go here)
+
+Cinnabar,(extra notes go here)
+
+Coal,(extra notes go here)
+
+Ancient Debris,(extra notes go here)
+
+Anthracitic Coal,(extra notes go here)
+
+Assorted Quartz,(extra notes go here)
+
+Azurite,(extra notes go here)
+
+Bauxite,(extra notes go here)
+
+Beryl,(extra notes go here)
+
+Bituminous Coal,(extra notes go here)
+
+Cassiterite,(extra notes go here)
+
+Galena,(extra notes go here)
+
+nether_gold_ore,(switching naming format in documents for auto pluging in code editor)
+
+lapis_ore,(extra notes go here)
+
+teallite_ore/emerald_ore,(extra notes go here)
+
+platinum_ore,(extra notes go here)
+
+sphalerite_ore,(extra notes go here)

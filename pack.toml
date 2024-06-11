@@ -1,12 +1,12 @@
 name = "Invictus"
 author = "InstaSnipe frfr"
-version = "2.0-a.5"
+version = "2.0-a.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "47dfc1255e18c847dffbeb6ec313f857790d1dd1bfc2ce382302ec020444345e"
+hash = "4ab6990d3aee9eea0dbff7b8eb8616882bf3f1678bebf4b8389df9519066cc45"
 
 [versions]
 forge = "40.2.18"

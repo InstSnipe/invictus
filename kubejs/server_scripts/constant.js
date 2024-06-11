@@ -8,6 +8,7 @@ var bigreactorsReactor = 'bigreactors:reinforced_reactor'
 
 // Namespace tag variable
 var fabricTag = '#forge:'
+var kubejsTag = '#kubejs:'
 
 
 // Common ingredient
@@ -23,8 +24,11 @@ var steelBlock = FabricTag + 'storage_blocks/steel'
 var reactorCasing = bigreactorsReactor + 'casing'
 // Minecraft
 var redstone = minecraft + 'redstone'
+var quartz = minecraft + 'quartz'
 
 // Kubejs ingredient
+var siliconAlloy = kubejs + 'silicon_alloy'
+
 var screen = kubejs + 'screen'
 
 var computationMechanism = kubejs + 'computation_mechanism'

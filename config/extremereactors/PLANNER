@@ -1,0 +1,27 @@
+Current Fuel Plans:
+    3-4 fuel types with two varients of each, one high one low
+    Plan to chain recipes together to make higher fuels using previous fuels
+    Each "Tier" of fuel will be geared towards diffrent things(will be restructured to fit amount of fuels);
+        Tier 1, basic, used for your most basic reactors, useful for reactors in outpost and smallest nuclear powered vessels. Perk, slowest burn time
+
+        Tier 2, more intermidit, used for larger of more efficent reactors, useful for small supply depots/bases and mid sized nuclear vessels, ex. adverage nuclear sub most likely will run on this. 
+
+        Tier 3, Advanced, higly efficent, but comes at a faster burn time, useful for HQ's and Large vessles, ex. supercarrier
+
+Current Fuel Refinement Plans:
+    Refinement Proccess
+        1: SHIT-TON of uranium gathered
+        2: Put uranium in mixer with other undecided items/fluids
+        3: get like 3 nuggets spicy uranium, 6 nuggets no spicy air uranium (no spicy uranium could be used for CBC and other shells (CBC:MW when?))
+        4: mix spicy uranium nuggets with other tbd items/fluids 
+        5: get fuel grade uranium(alternative may give weapons grade)
+        6: Put spicy fuel in reactor
+        7: Wait
+        8: Get used fuel
+        9: Breakdown used fuel
+        10: Repeat 1-9 using products from used fuel to make next fuel
+    probably crush ingots into nuggets of U-235 and U-238
+    make nuggets into chunks of same isotope
+    remix the nuggets and/or chunks into fuels with a proccess of mixers
+    (maybe) mix imcomplete fuel with a catalyst of some sort to help diffrenceate the fuel recipes
+    some sort of seqienced assembly to finish fuel (probaly just a "compaction" or press)
