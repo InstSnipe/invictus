@@ -1,4 +1,4 @@
 onEvent('item.registry', event => {
-    event.create('screen').maxStackSize(16).displayName('Screen')
-    event.create('control_rod').maxStackSize(16).displayName('Control Rod')
+    event.create('mother_screen', 'create:sequenced_assembly').unstackable()
+    event.create('screen', 'create:sequenced_assembly').maxStackSize(16)
 })
