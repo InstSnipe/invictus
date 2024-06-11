@@ -1,6 +1,7 @@
 filename = 'oculus-mc1.18.2-1.6.4.jar'
 name = 'Oculus'
 side = 'client'
+optional = true
 
 [download]
 hash = '9bafc5d3069d533c49a19b6f5bdb53637a1d47c2'
