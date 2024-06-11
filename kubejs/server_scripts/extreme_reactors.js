@@ -132,7 +132,7 @@ onEvent('recipes', event => {
       item: kubejs + 'steel_rod',
       count: 2
     }
-  }
+  )
 
   // Add shaped recipe for control rod
   event.shaped(
@@ -141,7 +141,7 @@ onEvent('recipes', event => {
     'A',
     'B'
   ], {
-    A: conrete
+    A: conrete,
     B: kubejs + 'steel_rod'
   })
 })
