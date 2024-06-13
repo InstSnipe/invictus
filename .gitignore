@@ -1,2 +1,5 @@
 .vscode
+*.zip
+*.exe
 kubejs/probe/**
+
