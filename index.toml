@@ -186,7 +186,7 @@ hash = "7bcb783ef0a2a645675bbd818c717c9f4dc076e1cbb3d83a13e6cb733790e40f"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "c951864edbd9946a98204d307284f7d0fd7cbf5b64bb98f33a3c91ced2fff87e"
+hash = "cd9c88c9c95fef347d576debbb826d199952acb7af2892a7929cbad41b5a42c8"
 
 [[files]]
 file = "config/embeddium++mixin.toml"
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "9f673acfe706624caa98d92180fe3a6653342c901acbf221a885f1f93f16e392"
+hash = "b3a5704f1f395bbcfa2c239665e7fa505cc45bde1fff1901863a88e0c2458ffa"
 metafile = true
 
 [[files]]
