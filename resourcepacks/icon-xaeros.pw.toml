@@ -1,13 +1,13 @@
 name = "Icon Xaero's"
-filename = "Icon Xaero's 1.13.zip"
+filename = "Icon Xaero's 1.14 HF.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "05200f0fdf8c98167ff670a7eedef6711a4aecee"
+hash = "eb4ef827daffe15174d18e93a9c3136efe8de413"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4976641
+file-id = 5205448
 project-id = 888795

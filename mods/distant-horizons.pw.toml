@@ -1,14 +1,13 @@
 name = "Distant Horizons: A Level of Detail mod"
-filename = "DistantHorizons-2.0.1-a-1.18.2.jar"
+filename = "DistantHorizons-2.1.0-a-1.18.2.jar"
 side = "client"
-optional="true"
 
 [download]
 hash-format = "sha1"
-hash = "fc6e96ce790408acaa18c91f1226385e33e0e5d4"
+hash = "59ea3e404c53664377c532541e4781481a33c6b4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4924657
+file-id = 5390038
 project-id = 508933
